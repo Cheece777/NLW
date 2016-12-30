@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <title>Ettrup</title>
+  <title>NLW</title>
   
   <link rel="shortcut icon" href="/images/favicon.ico"/>
   <link rel="stylesheet" type="text/css" href="dist/css/bootstrap.min.css">
@@ -20,9 +20,9 @@
 
     <div class="jumbotron">
       <div class="container">
-        <h1>Produkter</h1>
-        <p>Alle custom-made designs af Julie Ettrup</p>
-        <p><a class="btn btn-default btn-lg" href="/all-products" role="button">See products</a></p>
+        <h1>NLW</h1>
+        <p>Test af hjemmeside</p>
+        <p><a class="btn btn-default btn-lg" href="/kontakt" role="button">Kontakt</a></p>
       </div>
     </div>
   
