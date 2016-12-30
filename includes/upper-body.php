@@ -18,7 +18,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/">Ettrup</a>
+            <a class="navbar-brand" href="/">NLW</a>
           </div>
 
           <!-- Collect the nav links, forms, and other content for toggling -->
@@ -26,19 +26,26 @@
             <ul class="nav navbar-nav">
               <!--<li><a href="/dinner">Dinner</a></li>-->
               <li class="dropdown">
-                <a href="/all-products" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Produkter<span class="caret"></span></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Næste NLW<span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                  <li><a href="/all-products">Alle produkter</a></li>
-                  <li role="separator" class="divider"></li>
-                  <li><a href="/products/bags">Tasker</a></li>
-                  <li><a href="/products/accessories">Accessories</a></li>
+                  <li><a href="/generelt">Generelt</a></li>
+                  <li><a href="/regler">Regler og huskeliste</a></li>
+                  <li><a href="/program">Program</a></li>
+                  <li><a href="/konkurrencer">Konkurrencer</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Bagom NLW<span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="/crew">Arrangører</a></li>
+                  <li><a href="/historie">Historien om NLW</a></li>
                 </ul>
               </li>
             </ul>
 
             <!-- Nav Bar right side -->
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="/contact">Kontakt</a></li>
+              <li><a href="/kontakt">Kontakt</a></li>
             </ul>
           </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
