@@ -23,7 +23,7 @@
       <h1>Program</h1>
       <div class="media">
         <div class="media-left">
-          <img class="media-object" src="images/logo-program.PNG" alt="program-logo">
+          <img class="img-rounded" src="images/logo-program.PNG" alt="program-logo" height="170px" width="170px">
         </div>
         <div class="media-body">
           <p>Læs her program oversigten over det kommende NLW</p>

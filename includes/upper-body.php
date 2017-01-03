@@ -11,7 +11,7 @@
       <nav class="navbar navbar-default">
         <div class="container-fluid">
           <div class="row">
-            <a href="/"><img src="images/logo.png" alt="NLW Logo" height="150"></a>
+            <a href="/"><img class="img-responsive" src="images/logo.png" alt="NLW Logo" height="150"></a>
           </div>
         </div>
         
