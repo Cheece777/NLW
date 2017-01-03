@@ -18,13 +18,28 @@
   include 'init.php';
   include ROOT_DIR . '/includes/upper-body.php';?>
 
-    <div class="jumbotron">
-      <div class="container">
-        <h1>NLW</h1>
-        <p>Test af hjemmeside</p>
-        <p><a class="btn btn-default btn-lg" href="/kontakt" role="button">Kontakt</a></p>
+  <div class="jumbotron">
+    <div class="container">
+      <h1>Program</h1>
+      <div class="media">
+        <div class="media-left">
+          <img class="media-object" src="images/logo-program.PNG" alt="program-logo">
+        </div>
+        <div class="media-body">
+          <p>Læs her program oversigten over det kommende NLW</p>
+          <p><a class="btn btn-default btn-lg" href="/program-oversigt" role="button">Program</a></p>
+        </div>
       </div>
     </div>
+  </div>
+
+  <div class="jumbotron">
+    <div class="container">
+      <h1>Kontakt</h1>
+      <p>Tag kontakt til NLW's crew hvis du har spørgsmål omkring arrangementet</p>
+      <p><a class="btn btn-default btn-lg" href="/kontakt" role="button">Kontakt</a></p>
+    </div>
+  </div>
   
 
   <?php include ROOT_DIR . '/includes/lower-body.php';?>
