@@ -1,4 +1,4 @@
-<div class="container-fluid"
+<div class="container-fluid">
   <div class="row">
     <div class="col-sm-1 col-lg-2"></div>
     <div class="col-sm-10 col-lg-8">
@@ -9,11 +9,21 @@
       <script src="dist/js/bootstrap.min.js"></script>
 
       <nav class="navbar navbar-default">
-        <div class="container-fluid">
+        <!--<div class="container-fluid">
           <div class="row">
-            <a href="/"><img class="img-responsive" src="images/logo.png" alt="NLW Logo" height="150"></a>
+            <div class="header-div">
+              <div class="header-div-sub">
+                <a href="/"><img class="img-responsive" src="images/logo.png" alt="NLW Logo" height="100"></a>
+              </div>
+              <div class="header-div-sub">
+                <p><a class="btn btn-default btn-lg" href="https://place2book.com/da/choose_seating_sales_workflow?seccode=fd8e8f14aa" role="button">KØB BILLET</a></p>
+              </div>
+              <div class="header-div-sub">
+                <a href="/"><img class="img-responsive" src="images/logo.png" alt="NLW Logo" height="100"></a>
+              </div>
+            </div>
           </div>
-        </div>
+        </div>-->
         
         <div class="container-fluid">
           <!-- Brand and toggle get grouped for better mobile display -->
@@ -55,5 +65,25 @@
             </ul>
           </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
+        
+        <!--<div class="container-fluid">
+          <div class="row">
+            <div class="header-div">
+              <div class="header-div-sub">
+                
+              </div>
+              <div class="header-div-sub">
+                
+              </div>
+              <div class="header-div-sub">
+                
+              </div>
+              <div class="header-div-sub">
+                
+              </div>
+            </div>
+          </div>
+        </div>-->
+        
       </nav>
 
