@@ -20,9 +20,11 @@
   
   <div class="row">
     <div class="col-md-6">
-      <div class="jumbotron">
-        <div class="container">
-          <h1>Nyheder</h1>
+      <div class="panel panel-primary">
+        <div class="panel-heading">
+          <h1 class="panel-title-large">Nyheder</h1>
+        </div>
+        <div class="panel-body">
           <div id="fb-root"></div>
             <script>(function(d, s, id) {
               var js, fjs = d.getElementsByTagName(s)[0];
@@ -37,29 +39,37 @@
     </div>
 
     <div class="col-md-6">
-      <div class="jumbotron">
-        <h1>Konkurrencer</h1>
-        <div class="panel-body">
-          <div class="col-lg-6">
-            <img class="media-object" src="/images/cs-logo.png" alt="CS Tournament" height="120" width="120">
+      <div class="panel panel-primary">
+        <div class="panel-heading">
+          <h1 class="panel-title-large">Konkurrencer</h1>
+        </div>
+        <div class="panel-body header-div">
+          <div class="col-md-6 col-sm-6 col-xs-6 header-div-sub">
+            <a  href="/counterstrike"><img class="img-responsive tournament-image" src="/images/cs-logo.png" alt="CS Tournament" height="80"></a>
+            <button type="button" class="btn btn-default">Tilmeld</button>
           </div>
-          <div class="col-lg-6">
-            <img class="media-object" src="/images/trackmania-logo.png" alt="TM Tournament" height="120" width="120">
+          <div class="col-md-6 col-sm-6 col-xs-6 header-div-sub">
+            <a href="/trackmania"><img class="img-responsive tournament-image" src="/images/trackmania-logo.png" alt="TM Tournament" height="80"></a>
+            <button type="button" class="btn btn-default">Tilmeld</button>
           </div>
-          <div class="col-lg-6">
-            <img class="media-object" src="/images/minecraft-logo.png" alt="MC Tournament" height="120" width="120">
+          <div class="col-md-6 col-sm-6 col-xs-6 header-div-sub">
+            <a href="/minecraft"><img class="img-responsive tournament-image" src="/images/minecraft-logo.png" alt="MC Tournament" height="80"></a>
+            <button type="button" class="btn btn-default">Tilmeld</button>
           </div>
-          <div class="col-lg-6">
-            <img class="media-object" src="/images/custom-logo.png" alt="Din Tournament" height="120" width="120">
+          <div class="col-md-6 col-sm-6 col-xs-6 header-div-sub">
+            <a href="/dinturnering"><img class="img-responsive tournament-image" src="/images/custom-logo.png" alt="Din Tournament" height="80"></a>
+            <button type="button" class="btn btn-default">Tilmeld</button>
           </div>
         </div>
       </div>
     </div>
   </div>
   
-  <div class="jumbotron">
-    <div class="container">
-      <h1>Program</h1>
+  <div class="panel panel-primary">
+    <div class="panel-heading">
+      <h1 class="panel-title-large">Program</h1>
+    </div>
+    <div class="panel-body">
       <div class="media">
         <div class="media-left">
           <img class="img-rounded" src="images/logo-program.PNG" alt="program-logo" height="170px" width="170px">
@@ -71,15 +81,24 @@
       </div>
     </div>
   </div>
-
-  <div class="jumbotron">
-    <div class="container">
-      <h1>Kontakt</h1>
-      <p>Tag kontakt til NLW's crew hvis du har spørgsmål omkring arrangementet</p>
-      <p><a class="btn btn-default btn-lg" href="/kontakt" role="button">Kontakt</a></p>
+  
+  <div class="panel panel-primary">
+    <div class="panel-heading">
+      <h1 class="panel-title-large">Kontakt</h1>
+    </div>
+    <div class="panel-body">
+      <div class="media">
+        <div class="media-left">
+          <img class="img-rounded" src="images/logo-program.PNG" alt="program-logo" height="170px" width="170px">
+        </div>
+        <div class="media-body">
+          <p>Tag kontakt til NLW's crew hvis du har spørgsmål omkring arrangementet</p>
+          <p><a class="btn btn-default btn-lg" href="/kontakt" role="button">Kontakt</a></p>
+        </div>
+      </div>
     </div>
   </div>
-
+  
   <?php include ROOT_DIR . '/includes/lower-body.php';?>
 </body>
 </html>
