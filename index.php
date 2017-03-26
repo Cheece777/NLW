@@ -55,6 +55,12 @@
             <a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/konkurrence/dinturnering';?>"><img class="img-responsive tournament-image" src="/images/custom-logo.png" alt="Din Tournament" height="80"></a>
             <button type="button" class="btn btn-default">Tilmeld</button>
           </div>
+          <div class="col-md-6 col-sm-6 col-xs-6 header-div-sub">
+            <a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/konkurrence/udendors';?>"><img class="img-responsive tournament-image" src="/images/custom-logo.png" alt="Udendors" height="80"></a>
+          </div>
+          <div class="col-md-6 col-sm-6 col-xs-6 header-div-sub">
+            <a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/konkurrence/feelinglucky';?>"><img class="img-responsive tournament-image" src="/images/custom-logo.png" alt="Feeling lucky" height="80"></a>
+          </div>
         </div>
       </div>
     </div>
