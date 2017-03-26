@@ -7,12 +7,11 @@
   
   <title>NLW</title>
   
-  <link rel="shortcut icon" href="/images/favicon.ico"/>
-  <link rel="stylesheet" type="text/css" href="dist/css/bootstrap.min.css">
-  <!-- Optional Bootstrap theme -->
-  <link rel="stylesheet" href="dist/css/custom-bootstrap.css">
+  <?php
+  include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT').'/includes/body.php';
+  ?>
+  
 </head>
-
 <body>
   <?php
   include 'init.php';
@@ -32,7 +31,7 @@
             <button type="button" class="btn btn-default">Tilmeld</button>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-6 header-div-sub">
-            <a href="/minecraft"><img class="img-responsive tournament-image" src="/images/minecraft-logo.png" alt="MC Tournament" height="80"></a>
+            <a href="/konkurrence/minecraft"><img class="img-responsive tournament-image" src="/images/minecraft-logo.png" alt="MC Tournament" height="80"></a>
             <button type="button" class="btn btn-default">Tilmeld</button>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-6 header-div-sub">

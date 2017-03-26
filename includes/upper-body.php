@@ -3,11 +3,11 @@
     <div class="col-sm-1 col-lg-2"></div>
     <div class="col-sm-10 col-lg-8">
       
-      <!-- ### HEADER ### -->
+      <!-- ### HEADER ### --> 
       
-      <script src="dist/js/jquery-1.12.4.min.js"></script>
-      <script src="dist/js/bootstrap.min.js"></script>
-
+      <script src="<?php echo filter_input(INPUT_SERVER, 'DOCUMENT_ROOT').'dist/js/jquery-1.12.4.min.js';?>"></script>
+      <script src="<?php echo filter_input(INPUT_SERVER, 'DOCUMENT_ROOT').'dist/js/bootstrap.min.js';?>"></script>
+      
       <nav class="navbar navbar-default">
         <!--<div class="container-fluid">
           <div class="row">

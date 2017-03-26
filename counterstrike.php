@@ -21,7 +21,7 @@
     <div class="jumbotron">
       <div class="container">
         <h1>NLW</h1>
-        <p>Test af hjemmeside</p>
+        <p>TEST AF LAPTOP UPLOAD</p>
         <p><a class="btn btn-default btn-lg" href="/kontakt" role="button">Kontakt</a></p>
       </div>
     </div>
