@@ -35,8 +35,8 @@ body {
   margin: 8px;
 }
 
-.panel-heading-background {
-    background: url(http://placehold.it/350x150) no-repeat !important;
+.ph-background-keyboard {
+    background: url("/images/keyboard-banner.png") no-repeat !important;
     background-position: center;
     background-size: cover;
     -webkit-background-size: cover;
