@@ -13,14 +13,7 @@
 <body>
   <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT'). '/includes/upper-body.php'; ?>
 
-    <div class="jumbotron">
-      <div class="container">
-        <h1>NLW</h1>
-        <p>Test af hjemmeside</p>
-        <p><a class="btn btn-default btn-lg" href="/kontakt" role="button">Kontakt</a></p>
-      </div>
-    </div>
-  
+    
 
   <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT') . '/includes/lower-body.php';?>
 </body>
