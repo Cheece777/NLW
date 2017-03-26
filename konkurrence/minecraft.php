@@ -7,14 +7,11 @@
   
   <title>NLW</title>
   
-  <?php
-  include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT').'/includes/body.php';
-  ?>
+  <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT').'/includes/body.php'; ?>
 </head>
 
 <body>
-  <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT').'/includes/upper-body.php';?>
-  <!--include ROOT_DIR . '/includes/upper-body.php';?>-->
+  <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT'). '/includes/upper-body.php'; ?>
 
     <div class="jumbotron">
       <div class="container">
@@ -25,6 +22,6 @@
     </div>
   
 
-  <?php include ($_SERVER['DOCUMENT_ROOT'] . '/includes/lower-body.php');?>
+  <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT') . '/includes/lower-body.php';?>
 </body>
 </html>

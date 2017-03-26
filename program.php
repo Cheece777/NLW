@@ -7,16 +7,11 @@
   
   <title>NLW</title>
   
-  <link rel="shortcut icon" href="/images/favicon.ico"/>
-  <link rel="stylesheet" type="text/css" href="dist/css/bootstrap.min.css">
-  <!-- Optional Bootstrap theme -->
-  <link rel="stylesheet" href="dist/css/custom-bootstrap.css">
+  <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT').'/includes/body.php'; ?>
 </head>
 
 <body>
-  <?php
-  include 'init.php';
-  include ROOT_DIR . '/includes/upper-body.php';?>
+  <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT'). '/includes/upper-body.php'; ?>
 
     <div class="panel panel-primary">
       <!-- Default panel contents -->
@@ -30,18 +25,18 @@
 
         <div class="tab-content">
           <div id="fredag" class="tab-pane fade in active">
-            <?php include ROOT_DIR . '/program-includes/fredag.php';?>
+            <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT').'/program-includes/fredag.php';?>
           </div>
           <div id="lørdag" class="tab-pane fade">
-            <?php include ROOT_DIR . '/program-includes/lordag.php';?>
+            <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT').'/program-includes/lordag.php';?>
           </div>
           <div id="søndag" class="tab-pane fade">
-            <?php include ROOT_DIR . '/program-includes/sondag.php';?>
+            <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT').'/program-includes/sondag.php';?>
           </div>
         </div>
       </div>
     </div>
 
-  <?php include ROOT_DIR . '/includes/lower-body.php';?>
+  <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT').'/includes/lower-body.php';?>
 </body>
 </html>

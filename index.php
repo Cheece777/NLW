@@ -7,16 +7,11 @@
   
   <title>Nøvling Lan Week</title>
   
-  <link rel="shortcut icon" href="/images/favicon.ico"/>
-  <link rel="stylesheet" type="text/css" href="dist/css/bootstrap.min.css">
-  <!-- Optional Bootstrap theme -->
-  <link rel="stylesheet" href="dist/css/custom-bootstrap.css">
+  <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT').'/includes/body.php'; ?>
 </head>
 
 <body>
-  <?php
-  include 'init.php';
-  include ROOT_DIR . '/includes/upper-body.php';?>
+  <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT'). '/includes/upper-body.php'; ?>
   
   <div class="row">
     <div class="col-md-6">
@@ -45,19 +40,19 @@
         </div>
         <div class="panel-body header-div">
           <div class="col-md-6 col-sm-6 col-xs-6 header-div-sub">
-            <a  href="/counterstrike"><img class="img-responsive tournament-image" src="/images/cs-logo.png" alt="CS Tournament" height="80"></a>
+            <a  href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/konkurrence/counterstrike';?>"><img class="img-responsive tournament-image" src="/images/cs-logo.png" alt="CS Tournament" height="80"></a>
             <button type="button" class="btn btn-default">Tilmeld</button>
           </div>
           <div class="col-md-6 col-sm-6 col-xs-6 header-div-sub">
-            <a href="/trackmania"><img class="img-responsive tournament-image" src="/images/trackmania-logo.png" alt="TM Tournament" height="80"></a>
+            <a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/konkurrence/trackmania';?>"><img class="img-responsive tournament-image" src="/images/trackmania-logo.png" alt="TM Tournament" height="80"></a>
             <button type="button" class="btn btn-default">Tilmeld</button>
           </div>
           <div class="col-md-6 col-sm-6 col-xs-6 header-div-sub">
-            <a href="/minecraft"><img class="img-responsive tournament-image" src="/images/minecraft-logo.png" alt="MC Tournament" height="80"></a>
+            <a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/konkurrence/minecraft';?>"><img class="img-responsive tournament-image" src="/images/minecraft-logo.png" alt="MC Tournament" height="80"></a>
             <button type="button" class="btn btn-default">Tilmeld</button>
           </div>
           <div class="col-md-6 col-sm-6 col-xs-6 header-div-sub">
-            <a href="/dinturnering"><img class="img-responsive tournament-image" src="/images/custom-logo.png" alt="Din Tournament" height="80"></a>
+            <a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/konkurrence/dinturnering';?>"><img class="img-responsive tournament-image" src="/images/custom-logo.png" alt="Din Tournament" height="80"></a>
             <button type="button" class="btn btn-default">Tilmeld</button>
           </div>
         </div>
@@ -76,7 +71,7 @@
         </div>
         <div class="media-body">
           <p>Læs her program oversigten over det kommende NLW</p>
-          <p><a class="btn btn-default btn-lg" href="/program-oversigt" role="button">Program</a></p>
+          <p><a class="btn btn-default btn-lg" href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/program';?>" role="button">Program</a></p>
         </div>
       </div>
     </div>
@@ -93,12 +88,12 @@
         </div>
         <div class="media-body">
           <p>Tag kontakt til NLW's crew hvis du har spørgsmål omkring arrangementet</p>
-          <p><a class="btn btn-default btn-lg" href="/kontakt" role="button">Kontakt</a></p>
+          <p><a class="btn btn-default btn-lg" href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/kontakt';?>" role="button">Kontakt</a></p>
         </div>
       </div>
     </div>
   </div>
   
-  <?php include ROOT_DIR . '/includes/lower-body.php';?>
+  <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT').'/includes/lower-body.php';?>
 </body>
 </html>

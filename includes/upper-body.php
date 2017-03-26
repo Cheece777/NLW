@@ -5,8 +5,8 @@
       
       <!-- ### HEADER ### --> 
       
-      <script src="<?php echo filter_input(INPUT_SERVER, 'DOCUMENT_ROOT').'dist/js/jquery-1.12.4.min.js';?>"></script>
-      <script src="<?php echo filter_input(INPUT_SERVER, 'DOCUMENT_ROOT').'dist/js/bootstrap.min.js';?>"></script>
+      <script src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/dist/js/jquery-1.12.4.min.js';?>"></script>
+      <script src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/dist/js/bootstrap.min.js';?>"></script>
       
       <nav class="navbar navbar-default">
         <!--<div class="container-fluid">
@@ -34,34 +34,33 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/">NLW</a>
+            <a class="navbar-brand" href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/';?>">NLW</a>
           </div>
 
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-              <!--<li><a href="/dinner">Dinner</a></li>-->
-              <li><a href="/generelt">Generelt</a></li>
-              <li><a href="/regler">Regler og huskeliste</a></li>
+              <li><a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/generelt';?>">Generelt</a></li>
+              <li><a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/regler';?>">Regler og huskeliste</a></li>
               <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Næste NLW<span class="caret"></span></a>
+                <a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'#';?>" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Næste NLW<span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                  <li><a href="/program-oversigt">Program</a></li>
-                  <li><a href="/konkurrencer">Konkurrencer</a></li>
+                  <li><a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/program';?>">Program</a></li>
+                  <li><a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/konkurrencer';?>">Konkurrencer</a></li>
                 </ul>
               </li>
               <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Bagom NLW<span class="caret"></span></a>
+                <a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'#';?>" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Bagom NLW<span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                  <li><a href="/crew">Arrangører</a></li>
-                  <li><a href="/historie">Historien om NLW</a></li>
+                  <li><a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/crew';?>">Arrangører</a></li>
+                  <li><a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/historie';?>">Historien om NLW</a></li>
                 </ul>
               </li>
             </ul>
 
             <!-- Nav Bar right side -->
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="/kontakt">Kontakt</a></li>
+              <li><a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/kontakt';?>">Kontakt</a></li>
             </ul>
           </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->

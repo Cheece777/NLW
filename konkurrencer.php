@@ -7,15 +7,11 @@
   
   <title>NLW</title>
   
-  <?php
-  include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT').'/includes/body.php';
-  ?>
-  
+  <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT').'/includes/body.php'; ?>
 </head>
+
 <body>
-  <?php
-  include 'init.php';
-  include ROOT_DIR . '/includes/upper-body.php';?>
+  <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT'). '/includes/upper-body.php'; ?>
 
   <div class="panel panel-primary">
     <div class="panel-heading">
@@ -23,24 +19,24 @@
     </div>
     <div class="panel-body header-div">
           <div class="col-md-3 col-sm-6 col-xs-6 header-div-sub">
-            <a  href="/counterstrike"><img class="img-responsive tournament-image" src="/images/cs-logo.png" alt="CS Tournament" height="80"></a>
+            <a  href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/konkurrence/counterstrike';?>"><img class="img-responsive tournament-image" src="/images/cs-logo.png" alt="CS Tournament" height="80"></a>
             <button type="button" class="btn btn-default">Tilmeld</button>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-6 header-div-sub">
-            <a href="/trackmania"><img class="img-responsive tournament-image" src="/images/trackmania-logo.png" alt="TM Tournament" height="80"></a>
+            <a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/konkurrence/trackmania';?>"><img class="img-responsive tournament-image" src="/images/trackmania-logo.png" alt="TM Tournament" height="80"></a>
             <button type="button" class="btn btn-default">Tilmeld</button>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-6 header-div-sub">
-            <a href="/konkurrence/minecraft"><img class="img-responsive tournament-image" src="/images/minecraft-logo.png" alt="MC Tournament" height="80"></a>
+            <a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/konkurrence/minecraft';?>"><img class="img-responsive tournament-image" src="/images/minecraft-logo.png" alt="MC Tournament" height="80"></a>
             <button type="button" class="btn btn-default">Tilmeld</button>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-6 header-div-sub">
-            <a href="/dinturnering"><img class="img-responsive tournament-image" src="/images/custom-logo.png" alt="Din Tournament" height="80"></a>
+            <a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/konkurrence/dinturnering';?>"><img class="img-responsive tournament-image" src="/images/custom-logo.png" alt="Din Tournament" height="80"></a>
             <button type="button" class="btn btn-default">Tilmeld</button>
           </div>
         </div>
   </div>
 
-  <?php include ROOT_DIR . '/includes/lower-body.php';?>
+  <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT') . '/includes/lower-body.php';?>
 </body>
 </html>

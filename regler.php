@@ -7,16 +7,11 @@
   
   <title>NLW</title>
   
-  <link rel="shortcut icon" href="/images/favicon.ico"/>
-  <link rel="stylesheet" type="text/css" href="dist/css/bootstrap.min.css">
-  <!-- Optional Bootstrap theme -->
-  <link rel="stylesheet" href="dist/css/custom-bootstrap.css">
+  <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT').'/includes/body.php'; ?>
 </head>
 
 <body>
-  <?php
-  include 'init.php';
-  include ROOT_DIR . '/includes/upper-body.php';?>
+  <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT'). '/includes/upper-body.php'; ?>
 
   <div class="panel panel-primary">
     <div class="panel-heading">
@@ -58,6 +53,6 @@
     </div>
   </div>
   
-  <?php include ROOT_DIR . '/includes/lower-body.php';?>
+  <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT') . '/includes/lower-body.php';?>
 </body>
 </html>

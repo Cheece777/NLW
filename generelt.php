@@ -7,16 +7,11 @@
   
   <title>NLW</title>
   
-  <link rel="shortcut icon" href="/images/favicon.ico"/>
-  <link rel="stylesheet" type="text/css" href="dist/css/bootstrap.min.css">
-  <!-- Optional Bootstrap theme -->
-  <link rel="stylesheet" href="dist/css/custom-bootstrap.css">
+  <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT').'/includes/body.php'; ?>
 </head>
 
 <body>
-  <?php
-  include 'init.php';
-  include ROOT_DIR . '/includes/upper-body.php';?>
+  <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT'). '/includes/upper-body.php'; ?>
 
     <div class="panel panel-primary">
       <div class="panel-heading">
@@ -68,7 +63,7 @@
         <p>Nøvling LAN Week har ingen aldersbegrænsning og er for alle, der har lyst til at deltage. Det eneste krav er, at deltagerne skal kunne tage vare på sig selv.</p>
         <p>(Nøvling LAN Weeks Crew tager ikke ansvar for, at deltagere spiller spil, som kan være upassende for deltagerens aldersgruppe)</p>
  
-        <p>Har du spørgsmål, eller er du i tvivl, så kontakt os <a href="/kontakt">her</a>.</p>
+        <p>Har du spørgsmål, eller er du i tvivl, så kontakt os <a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/kontakt';?>">her</a>.</p>
       </div>
     </div>
   
@@ -195,6 +190,6 @@
     </div>
   
 
-  <?php include ROOT_DIR . '/includes/lower-body.php';?>
+  <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT') . '/includes/lower-body.php';?>
 </body>
 </html>
