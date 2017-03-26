@@ -14,8 +14,8 @@ html {
 }
 body {
   margin: 0;
-  background-image: url("/images/background-green.png");
-  background-color: #37682B;
+  background-image: url("/images/background-cubes.png");
+  background-color: #000000;
   background-repeat: no-repeat;
 }
 
@@ -1110,7 +1110,7 @@ body {
   font-size: 15px;
   line-height: 1.42857143;
   color: #222222;
-  background-color: #37682b;
+  background-color: #000000;
 }
 input,
 button,

@@ -23,9 +23,7 @@
           <div class="panel-body">
             <div class="media">
               <div class="media-left">
-                <a href="#">
-                  <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/thm.png';?>" alt="Tobias Hvass Mølbak">
-                </a>
+                <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/thm.png';?>" alt="Tobias Hvass Mølbak">
               </div>
               <div class="media-body">
                 <h4 class="media-heading"><b>Tobias Hvass Mølbak</b></h4>
@@ -43,9 +41,7 @@
           <div class="panel-body">
             <div class="media">
               <div class="media-left">
-                <a href="#">
-                  <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/mhj.png';?>" alt="Mathias Huse Jensen">
-                </a>
+                <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/mhj.png';?>" alt="Mathias Huse Jensen">
               </div>
               <div class="media-body">
                 <h4 class="media-heading"><b>Mathias Huse Jensen</b></h4>
@@ -63,9 +59,7 @@
           <div class="panel-body">
             <div class="media">
               <div class="media-left">
-                <a href="#">
-                  <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/fhj.png';?>" alt="Frederik Huse Jensen">
-                </a>
+                <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/fhj.png';?>" alt="Frederik Huse Jensen">
               </div>
               <div class="media-body">
                 <h4 class="media-heading"><b>Frederik Huse Jensen</b></h4>
@@ -83,9 +77,7 @@
           <div class="panel-body">
             <div class="media">
               <div class="media-left">
-                <a href="#">
-                  <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/anh.png';?>" alt="Andreas Nødgaard Hansen">
-                </a>
+                <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/anh.png';?>" alt="Andreas Nødgaard Hansen">
               </div>
               <div class="media-body">
                 <h4 class="media-heading"><b>Andreas Nødgaard Hansen</b></h4>
@@ -103,9 +95,7 @@
           <div class="panel-body">
             <div class="media">
               <div class="media-left">
-                <a href="#">
-                  <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/as.png';?>" alt="Anders Staghøj">
-                </a>
+                <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/as.png';?>" alt="Anders Staghøj">
               </div>
               <div class="media-body">
                 <h4 class="media-heading"><b>Anders Staghøj</b></h4>
@@ -123,9 +113,7 @@
           <div class="panel-body">
             <div class="media">
               <div class="media-left">
-                <a href="#">
-                  <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/cm.png';?>" alt="Christian Mølholm">
-                </a>
+                <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/cm.png';?>" alt="Christian Mølholm">
               </div>
               <div class="media-body">
                 <h4 class="media-heading"><b>Christian Mølholm</b></h4>
@@ -143,9 +131,7 @@
           <div class="panel-body">
             <div class="media">
               <div class="media-left">
-                <a href="#">
-                  <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/fv.png';?>" alt="Frederik Vollstedt">
-                </a>
+                <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/fv.png';?>" alt="Frederik Vollstedt">
               </div>
               <div class="media-body">
                 <h4 class="media-heading"><b>Frederik Vollstedt</b></h4>
@@ -163,9 +149,7 @@
           <div class="panel-body">
             <div class="media">
               <div class="media-left">
-                <a href="#">
-                  <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/mt.png';?>" alt="Martin Thode">
-                </a>
+                <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/mt.png';?>" alt="Martin Thode">
               </div>
               <div class="media-body">
                 <h4 class="media-heading"><b>Martin Thode</b></h4>
@@ -178,17 +162,8 @@
             </div>
           </div>
         </div>
-        
       </div>
     </div>
-    
-    
-    
-    
-    
-    
-    
-  
 
   <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT') . '/includes/lower-body.php';?>
 </body>
