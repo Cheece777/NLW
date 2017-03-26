@@ -28,8 +28,12 @@
                 </a>
               </div>
               <div class="media-body">
-                <h4 class="media-heading"><b>Tobias Hvass Mølbak - Bille - <?php echo date_diff(date_create('1993-04-17'), date_create('today'))->y;?></b></h4>
-                Tobias Hvass Mølbak har været en del af Nøvling LAN Week siden begyndelsen. Han er 'mastermind' bag opsætningen af NLW, samt den tekniske support under arrangementet.
+                <h4 class="media-heading"><b>Tobias Hvass Mølbak</b></h4>
+                <ul>
+                  <li>Game tag: Bille</li>
+                  <li>Alder: <?php echo date_diff(date_create('1993-04-17'), date_create('today'))->y;?></li>
+                  <li>NLW rolle: Opsætningsansvarlig, Teknisk support</li>
+                </ul>
               </div>
             </div>
           </div>
@@ -44,8 +48,12 @@
                 </a>
               </div>
               <div class="media-body">
-                <h4 class="media-heading"><b>Mathias Huse Jensen - Cheece - <?php echo date_diff(date_create('1993-03-30'), date_create('today'))->y;?></b></h4>
-                Mathias Huse Jensen har været en del af Nøvling LAN Week siden begyndelsen. Han har det primære ansvar med alt planlægningen og kontakten ud af til.
+                <h4 class="media-heading"><b>Mathias Huse Jensen</b></h4>
+                <ul>
+                  <li>Game tag: Cheece</li>
+                  <li>Alder: <?php echo date_diff(date_create('1993-03-30'), date_create('today'))->y;?></li>
+                  <li>NLW rolle: Hovedplanlægning, Kontaktperson</li>
+                </ul>
               </div>
             </div>
           </div>
@@ -60,8 +68,12 @@
                 </a>
               </div>
               <div class="media-body">
-                <h4 class="media-heading"><b>Frederik Huse Jensen - Nuzz - <?php echo date_diff(date_create('1996-02-21'), date_create('today'))->y;?></b></h4>
-                Frederik Huse Jensen har været en del af Nøvling LAN Week siden 2013, hvor den nye generation tråde til. Han har det primære ansvar under arrangementernes forløb.
+                <h4 class="media-heading"><b>Frederik Huse Jensen</b></h4>
+                <ul>
+                  <li>Game tag: Nuzz</li>
+                  <li>Alder: <?php echo date_diff(date_create('1996-02-21'), date_create('today'))->y;?></li>
+                  <li>NLW rolle: Hovedansvarlig ved arrangementet</li>
+                </ul>
               </div>
             </div>
           </div>
@@ -76,8 +88,12 @@
                 </a>
               </div>
               <div class="media-body">
-                <h4 class="media-heading"><b>Andreas Nødgaard Hansen - d1PS - <?php echo date_diff(date_create('1996-02-21'), date_create('today'))->y;?></b></h4>
-                Andreas Nødgaard Hansen har været en del af Nøvling LAN Week siden 2013, hvor han kom til under generationsskiftet. Han er manden man ikke vil mangle under en opsætning. Han ved hvor ledningen skal ligge og switchen skal stå.
+                <h4 class="media-heading"><b>Andreas Nødgaard Hansen</b></h4>
+                <ul>
+                  <li>Game tag: d1PS</li>
+                  <li>Alder: <?php echo date_diff(date_create('1996-02-21'), date_create('today'))->y;?></li>
+                  <li>NLW rolle: Konkurrenceansvarlig</li>
+                </ul>
               </div>
             </div>
           </div>
@@ -92,8 +108,12 @@
                 </a>
               </div>
               <div class="media-body">
-                <h4 class="media-heading"><b>Anders Staghøj - Staghøj - <?php echo date_diff(date_create('1993-04-17'), date_create('today'))->y;?></b></h4>
-                Anders Staghøj har været en del af Nøvling LAN Week siden 2013, hvor han kom til under generationsskiftet. Anders står for de udendørs konkurrencer, og traditionenstro tager han gerne nattevagten, når resten af crewet er godt ødelagte.
+                <h4 class="media-heading"><b>Anders Staghøj</b></h4>
+                <ul>
+                  <li>Game tag: Staghøj</li>
+                  <li>Alder: <?php echo date_diff(date_create('1995-11-10'), date_create('today'))->y;?></li>
+                  <li>NLW rolle: Udendørs konkurrencer, Nattevagt</li>
+                </ul>
               </div>
             </div>
           </div>
@@ -108,8 +128,12 @@
                 </a>
               </div>
               <div class="media-body">
-                <h4 class="media-heading"><b>Christian Mølholm - barcandy - <?php echo date_diff(date_create('1995-09-07'), date_create('today'))->y;?></b></h4>
-                Christian Mølholm har været en del af Nøvling LAN Week siden 2013, hvor han kom til under generationsskiftet. Christian har været fast inventar i CounterStrike turneringerne, hvor han altid næsten på egen hånd har stået med det store ansvar.
+                <h4 class="media-heading"><b>Christian Mølholm</b></h4>
+                <ul>
+                  <li>Game tag: barcandy</li>
+                  <li>Alder: <?php echo date_diff(date_create('1995-09-07'), date_create('today'))->y;?></li>
+                  <li>NLW rolle: Konkurrenceansvarlig</li>
+                </ul>
               </div>
             </div>
           </div>
@@ -124,8 +148,12 @@
                 </a>
               </div>
               <div class="media-body">
-                <h4 class="media-heading"><b>Frederik Vollstedt - Vollstedt - <?php echo date_diff(date_create('1996-09-12'), date_create('today'))->y;?></b></h4>
-                Frederik Vollstedt har været en del af Nøvling LAN Week siden 2013, hvor han kom til under generationsskiftet. Han er fleksibel i sine arbejdsopgaver, og har stået for diverse turneringer gennem tiden. Hans primære ansvar ligger dog i Trackmania turneringen.
+                <h4 class="media-heading"><b>Frederik Vollstedt</b></h4>
+                <ul>
+                  <li>Game tag: Vollstedt</li>
+                  <li>Alder: <?php echo date_diff(date_create('1996-09-12'), date_create('today'))->y;?></li>
+                  <li>NLW rolle: Trackmania ansvarlig</li>
+                </ul>
               </div>
             </div>
           </div>
@@ -140,8 +168,12 @@
                 </a>
               </div>
               <div class="media-body">
-                <h4 class="media-heading"><b>Martin Thode - Thode - <?php echo date_diff(date_create('1993-07-05'), date_create('today'))->y;?></b></h4>
-                Martin Thode har været en del af Nøvling LAN Week siden 2013, hvor han kom til under generationsskiftet. Martin har siden været ansvarlig for League of Legends turneringen, men med udskiftning af denne under NLW #12, har Martin fået det primære ansvar for indkøb til arrangementet.
+                <h4 class="media-heading"><b>Martin Thode</b></h4>
+                <ul>
+                  <li>Game tag: Thode</li>
+                  <li>Alder: <?php echo date_diff(date_create('1993-07-05'), date_create('today'))->y;?></li>
+                  <li>NLW rolle: Indkøbsansvarlig</li>
+                </ul>
               </div>
             </div>
           </div>
