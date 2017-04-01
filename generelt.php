@@ -89,13 +89,13 @@
           </li>
           <li class="list-group-item">
             <span class="badge">15 kr/stk</span>
-            Energidrik fl. varianter
+            Energidrik fl. varianter*
           </li>
           </li>
         </ul>
         
         <p>Overstående er vejledende priser og der tages derfor forbehold for prisændringer under arrangementet. Toast og Sodavand kan kombineres.</p>
-        <p>Energidrik sælges kun til deltagere over 16 år eller med gyldig underskrift fra forældre.</p>
+        <p>*Energidrik sælges kun til deltagere over 16 år eller med gyldig underskrift fra forældre.</p>
       </div>
     </div>
   

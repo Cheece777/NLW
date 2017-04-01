@@ -37,6 +37,11 @@ body {
   padding: 6px;
 }
 
+.flexbox {
+  display: -webkit-flex;
+  display: flex;
+}
+
 .ph-background-keyboard {
     background: url("/images/keyboard-banner.png") no-repeat !important;
     background-position: center;
