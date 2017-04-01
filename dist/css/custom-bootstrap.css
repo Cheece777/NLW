@@ -14,9 +14,8 @@ html {
 }
 body {
   margin: 0;
-  background-image: url("/images/background-cubes.png");
-  background-color: #000000;
-  background-repeat: no-repeat;
+  background-image: url("/images/8bit-background.png");
+  background-repeat: repeat-x; //no-repeat
 }
 
 .header-div {
@@ -1110,7 +1109,7 @@ body {
   font-size: 15px;
   line-height: 1.42857143;
   color: #222222;
-  background-color: #000000;
+  background-color: #37682B;
 }
 input,
 button,
