@@ -37,18 +37,64 @@ body {
   padding: 6px;
 }
 
-.flexbox {
-  display: -webkit-flex;
-  display: flex;
+.banner-cs {
+  background-image: url("/images/banner/cs-banner.png");
+  background-position: left top;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height: 120px;
 }
 
-.ph-background-keyboard {
-    background: url("/images/keyboard-banner.png") no-repeat !important;
-    background-position: center;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+.banner-trackmania {
+  background-image: url("/images/banner/trackmania-banner.png");
+  background-position: left top;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height: 120px;
+}
+
+.banner-minecraft {
+  background-image: url("/images/banner/minecraft-banner.png");
+  background-position: left top;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height: 120px;
+}
+
+.banner-custom {
+  background-image: url("/images/banner/custom-banner.png");
+  background-position: left top;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height: 120px;
+}
+
+.banner-udendors {
+  background-image: url("/images/banner/udendors-banner.png");
+  background-position: left top;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height: 120px;
+}
+
+.banner-lucky {
+  background-image: url("/images/banner/lucky-banner.png");
+  background-position: left top;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height: 120px;
 }
 
 article,

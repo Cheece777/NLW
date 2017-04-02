@@ -14,7 +14,7 @@
   <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT'). '/includes/upper-body.php'; ?>
 
   <div class="panel panel-primary">
-    <div class="panel-heading">Feeling lucky</div>
+    <div class="panel-heading banner-lucky"></div>
     <div class="panel-body">
       <p>Du skyder din ene kammerat i hovedet efter den anden i Counter Strike alt imens du hører på dem pive over at du er heldig. Nu har du muligheden for rigtigt at udnytte dit held og vinde store præmier.</p>
     </div>
