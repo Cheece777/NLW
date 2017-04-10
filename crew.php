@@ -30,7 +30,7 @@
                 <ul>
                   <li>Game tag: Bille</li>
                   <li>Alder: <?php echo date_diff(date_create('1993-04-17'), date_create('today'))->y;?></li>
-                  <li>NLW rolle: Opsætningsansvarlig, Teknisk support</li>
+                  <li>Opsætningsansvarlig og teknisk support</li>
                 </ul>
               </div>
             </div>
@@ -48,7 +48,7 @@
                 <ul>
                   <li>Game tag: Cheece</li>
                   <li>Alder: <?php echo date_diff(date_create('1993-03-30'), date_create('today'))->y;?></li>
-                  <li>NLW rolle: Hovedplanlægning, Kontaktperson</li>
+                  <li>Hovedplanlægning og kontaktperson</li>
                 </ul>
               </div>
             </div>
@@ -66,7 +66,7 @@
                 <ul>
                   <li>Game tag: Nuzz</li>
                   <li>Alder: <?php echo date_diff(date_create('1996-02-21'), date_create('today'))->y;?></li>
-                  <li>NLW rolle: Hovedansvarlig ved arrangementet</li>
+                  <li>Hovedansvarlig ved arrangementet</li>
                 </ul>
               </div>
             </div>
@@ -84,7 +84,7 @@
                 <ul>
                   <li>Game tag: d1PS</li>
                   <li>Alder: <?php echo date_diff(date_create('1996-02-21'), date_create('today'))->y;?></li>
-                  <li>NLW rolle: Konkurrenceansvarlig</li>
+                  <li>Konkurrenceansvarlig</li>
                 </ul>
               </div>
             </div>
@@ -102,7 +102,7 @@
                 <ul>
                   <li>Game tag: Staghøj</li>
                   <li>Alder: <?php echo date_diff(date_create('1995-11-10'), date_create('today'))->y;?></li>
-                  <li>NLW rolle: Udendørs konkurrencer, Nattevagt</li>
+                  <li>Udendørs konkurrencer og nattevagt</li>
                 </ul>
               </div>
             </div>
@@ -120,7 +120,7 @@
                 <ul>
                   <li>Game tag: barcandy</li>
                   <li>Alder: <?php echo date_diff(date_create('1995-09-07'), date_create('today'))->y;?></li>
-                  <li>NLW rolle: Konkurrenceansvarlig</li>
+                  <li>Konkurrenceansvarlig</li>
                 </ul>
               </div>
             </div>
@@ -138,7 +138,7 @@
                 <ul>
                   <li>Game tag: Vollstedt</li>
                   <li>Alder: <?php echo date_diff(date_create('1996-09-12'), date_create('today'))->y;?></li>
-                  <li>NLW rolle: Trackmania ansvarlig</li>
+                  <li>Trackmania ansvarlig</li>
                 </ul>
               </div>
             </div>
@@ -156,7 +156,7 @@
                 <ul>
                   <li>Game tag: Thode</li>
                   <li>Alder: <?php echo date_diff(date_create('1993-07-05'), date_create('today'))->y;?></li>
-                  <li>NLW rolle: Indkøbsansvarlig</li>
+                  <li>Indkøbsansvarlig</li>
                 </ul>
               </div>
             </div>

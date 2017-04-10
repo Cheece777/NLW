@@ -42,12 +42,12 @@
             <ul class="nav navbar-nav">
               <li><a href="https://place2book.com/da/choose_seating_sales_workflow?seccode=fd8e8f14aa"><b>Køb Billet</b></a></li>
               <li><a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/generelt';?>">Generelt</a></li>
-              <li><a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/regler';?>">Regler og huskeliste</a></li>
               <li class="dropdown">
                 <a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'#';?>" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Næste NLW<span class="caret"></span></a>
                 <ul class="dropdown-menu">
                   <li><a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/program';?>">Program</a></li>
                   <li><a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/konkurrencer';?>">Konkurrencer</a></li>
+                  <li><a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/regler';?>">Regler og huskeliste</a></li>
                 </ul>
               </li>
               <li class="dropdown">
