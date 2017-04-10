@@ -87,7 +87,7 @@
     <div class="panel-body">
       <div class="media">
         <div class="media-left">
-          <img class="img-rounded" src="images/logo-program.PNG" alt="program-logo" height="170px" width="170px">
+          <img class="img-rounded" src="images/contact.png" alt="program-logo" height="170px" width="170px">
         </div>
         <div class="media-body">
           <p>Tag kontakt til NLW's crew hvis du har spørgsmål omkring arrangementet</p>
