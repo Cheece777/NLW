@@ -154,7 +154,7 @@
                 <h4 class="media-heading"><b>Martin Thode</b></h4>
                 <ul>
                   <li>Game tag: Thode</li>
-                  <li>Alder: <?php echo date_diff(date_create('1993-07-05'), date_create('today'))->y;?></li>
+                  <li>Alder: <?php echo date_diff(date_create('1996-03-11'), date_create('today'))->y;?></li>
                   <li>Indkøbsansvarlig</li>
                 </ul>
               </div>
