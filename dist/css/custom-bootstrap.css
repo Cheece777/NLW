@@ -18,15 +18,30 @@ body {
   background-repeat: repeat-x; //no-repeat
 }
 .header-div {
-  text-align: center;
-  white-space: nowrap;
-  //height: 100px;
-}
-.header-div-sub {
+  width: 100%;
+  padding: 0px;
   display: inline-block;
-  padding: 8px;
-  width: 25%;
+  list-style-type: none;
   margin: 3px auto;
+}
+.header-right-div {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+  text-align: center;
+}
+.header-right-div-li {
+  display: block;
+}
+.sponsor-div {
+  display: inline-block;
+  list-style-type: none;
+  padding: 0px;
+  margin: 3px auto;
+}
+.sponsor-div-li {
+  padding: 2px;
 }
 .tournament-button {
   max-width: 500px;

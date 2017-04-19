@@ -9,21 +9,59 @@
       <script src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/dist/js/bootstrap.min.js';?>"></script>
       
       <nav class="navbar navbar-default">
-        <!--<div class="container-fluid">
+        <div class="container-fluid hidden-xs">
           <div class="row">
-            <div class="header-div">
-              <div class="header-div-sub">
-                <a href="/"><img class="img-responsive" src="images/logo.png" alt="NLW Logo" height="100"></a>
-              </div>
-              <div class="header-div-sub">
-                <p><a class="btn btn-default btn-lg" href="https://place2book.com/da/choose_seating_sales_workflow?seccode=fd8e8f14aa" role="button">KØB BILLET</a></p>
-              </div>
-              <div class="header-div-sub">
-                <a href="/"><img class="img-responsive" src="images/logo.png" alt="NLW Logo" height="100"></a>
-              </div>
-            </div>
+            <ul class="header-div">
+              <li class="col-xs-8">
+                <a href="/"><img class="img-responsive" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/nlw-banner2.png';?>" alt="NLW Logo"></a>
+              </li>
+              <li class="col-xs-4">
+                <ul class="header-right-div">
+                  <li class="header-right-div-li">
+                    <p><b><h2>21. - 23. april</h2></b></p>
+                  </li>
+                  <li class="header-right-div-li">
+                    
+                    <!-- Display the countdown timer in an element -->
+                    <b><h3><p id="demo"></p></h3></b>
+
+                    <script>
+                    // Set the date we're counting down to
+                    var countDownDate = new Date("Apr 21, 2017 18:00:00").getTime();
+
+                    // Update the count down every 1 second
+                    var x = setInterval(function() {
+
+                      // Get todays date and time
+                      var now = new Date().getTime();
+
+                      // Find the distance between now an the count down date
+                      var distance = countDownDate - now;
+
+                      // Time calculations for days, hours, minutes and seconds
+                      var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                      var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                      var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                      var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+                      // Display the result in the element with id="demo"
+                      document.getElementById("demo").innerHTML =days + "d " + hours + "t "
+                      + minutes + "m " + seconds + "s ";
+
+                      // If the count down is finished, write some text 
+                      if (distance < 0) {
+                        clearInterval(x);
+                        document.getElementById("demo").innerHTML = "Velkommen!";
+                      }
+                    }, 1000);
+                    </script>
+                    
+                  </li>
+                </ul>
+              </li>
+            </ul>
           </div>
-        </div>-->
+        </div>
         
         <div class="container-fluid">
           <!-- Brand and toggle get grouped for better mobile display -->
@@ -65,25 +103,6 @@
             </ul>
           </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
-        
-        <!--<div class="container-fluid">
-          <div class="row">
-            <div class="header-div">
-              <div class="header-div-sub">
-                
-              </div>
-              <div class="header-div-sub">
-                
-              </div>
-              <div class="header-div-sub">
-                
-              </div>
-              <div class="header-div-sub">
-                
-              </div>
-            </div>
-          </div>
-        </div>-->
         
       </nav>
 

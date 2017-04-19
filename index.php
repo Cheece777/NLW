@@ -13,6 +13,25 @@
 <body>
   <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT'). '/includes/upper-body.php'; ?>
   
+  <div class="panel panel-primary">
+    <div class="panel-heading">
+      <h1 class="panel-title-large">Sponsorer</h1>
+    </div>
+    <div class="panel-body">
+      <ul class="sponsor-div">
+        <li class="sponsor-div-li col-lg-4">
+          <a href="http://www.bredbaandnord.dk/"><img class="img-responsive" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/bbn.png';?>" alt="NLW Logo" height="60"></a>
+        </li>
+        <li class="sponsor-div-li col-lg-4">
+          <img class="img-responsive" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/bbn.png';?>" alt="NLW Logo" height="60">
+        </li>
+        <li class="sponsor-div-li col-lg-4">
+          <img class="img-responsive" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/bbn.png';?>" alt="NLW Logo" height="60">
+        </li>
+      </ul>
+    </div>
+  </div>
+  
   <div class="row">
     <div class="col-md-6">
       <div class="panel panel-primary">
@@ -70,7 +89,7 @@
     <div class="panel-body">
       <div class="media">
         <div class="media-left">
-          <img class="img-rounded" src="images/logo-program.PNG" alt="program-logo" height="170px" width="170px">
+          <img class="img-rounded hidden-xs" src="images/logo-program.PNG" alt="program-logo" height="170px" width="170px">
         </div>
         <div class="media-body">
           <p>Læs her program oversigten over det kommende NLW</p>
@@ -88,7 +107,7 @@
       
       <div class="media">
         <div class="media-left">
-          <img class="img-rounded" src="images/contact.png" alt="program-logo" height="170px" width="170px">
+          <img class="img-rounded hidden-xs" src="images/contact.png" alt="program-logo" height="170px" width="170px">
         </div>
         <div class="media-body">
           <p>Tag kontakt til NLW's crew hvis du har spørgsmål omkring arrangementet</p>
