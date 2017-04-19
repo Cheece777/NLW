@@ -23,10 +23,10 @@
           <a href="http://www.bredbaandnord.dk/"><img class="img-responsive" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/bbn.png';?>" alt="NLW Logo" height="60"></a>
         </li>
         <li class="sponsor-div-li col-lg-4">
-          <img class="img-responsive" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/bbn.png';?>" alt="NLW Logo" height="60">
+          <a href="http://www.bredbaandnord.dk/"><img class="img-responsive" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/bbn.png';?>" alt="NLW Logo" height="60"></a>
         </li>
         <li class="sponsor-div-li col-lg-4">
-          <img class="img-responsive" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/bbn.png';?>" alt="NLW Logo" height="60">
+          <a href="http://www.bredbaandnord.dk/"><img class="img-responsive" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/bbn.png';?>" alt="NLW Logo" height="60"></a>
         </li>
       </ul>
     </div>

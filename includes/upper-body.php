@@ -13,7 +13,7 @@
           <div class="row">
             <ul class="header-div">
               <li class="col-xs-8">
-                <a href="/"><img class="img-responsive" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/nlw-banner2.png';?>" alt="NLW Logo"></a>
+                <a href="/"><img class="img-responsive hidden-md hidden-sm hidden-xs" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/nlw-banner2.png';?>" alt="NLW Logo"><img class="img-responsive hidden-lg hidden-xs" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/nlw-banner3.png';?>" alt="NLW Logo"></a>
               </li>
               <li class="col-xs-4">
                 <ul class="header-right-div">
