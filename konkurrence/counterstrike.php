@@ -17,6 +17,7 @@
     <div class="panel-heading banner-cs"></div>
     <div class="panel-body">
       <p>NLW's store Counter Strike turnering! Skyd jer ved gennem modstanderne og vis hvem der er dette års CS:GO mestre til NLW!</p>
+      <button type="button" class="btn btn-default btn-block tournament-button center-block disabled">Tilmeld</button>
     </div>
     <div class='panel-heading'>§1 Format</div>
     <ul class="list-group">
@@ -65,7 +66,7 @@
       <li class="list-group-item">Man må ikke bruge scripts så som: Turn scripts, Walk/Run/Silent scripts, Recoil scripts, AWP fastswitch/zoom Scripts, Bunny-jump</li>
       <li class="list-group-item">Det er holdets eget ansvar, at påvise hvis modstanderne snyder. Dette kan gøres ved at optagelse eller ved at påpege snyden live for en Administrator.</li>
     </ul>
-    <div class='panel-heading'>Præmie</div>
+    <div class='panel-heading'>§6 Præmie</div>
     <ul class="list-group">
       <li class="list-group-item">1. pladsen 1375 kr.*</li>
       <li class="list-group-item">2. pladsen 750 kr.*</li>

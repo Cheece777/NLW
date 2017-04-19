@@ -39,7 +39,7 @@
       <li class="list-group-item">§3.2 Det vil sige, at alle kan tilmelde sig ved blot at tilslutte sig, når Trackmania starter.</li>
       <li class="list-group-item">§3.3 Kunne du godt tænke dig at være med, men har ikke Trackmania installeret kan det hentes her <a href="http://trackmaniaforever.com">Trackmania Nations Forever</a> eller på Steam. Begge muligheder er gratis.</li>
     </ul>
-    <div class='panel-heading'>Præmie</div>
+    <div class='panel-heading'>§4 Præmie</div>
     <ul class="list-group">
       <li class="list-group-item">1. pladsen 200 kr.*</li>
       <li class="list-group-item">2. pladsen 150 kr.*</li>

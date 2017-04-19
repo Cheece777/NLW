@@ -18,7 +18,6 @@
         <h2 class="panel-title">Arrangører</h2>
       </div>
       <div class="panel-body">
-
         <div class="panel panel-default col-md-6">
           <div class="panel-body">
             <div class="media">

@@ -36,7 +36,7 @@
       <li class="list-group-item">§3.1 Minecraft serveren åbner kort efter NLW's start, og kræver ingen deltagelse.</li>
       <li class="list-group-item">§3.2 Turneringen afslutter 24 timer senere, i takt med aftensmaden bliver severet om lørdagen.</li>
     </ul>
-    <div class='panel-heading'>Præmie</div>
+    <div class='panel-heading'>§4 Præmie</div>
     <ul class="list-group">
       <li class="list-group-item">1. pladsen En NLW Natmenu (et gavekort á 5 toasts og 2 sodavand)</li>
     </ul>
