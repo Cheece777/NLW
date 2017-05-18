@@ -17,7 +17,7 @@
     <div class="panel-heading banner-cs"></div>
     <div class="panel-body">
       <p>NLW's store Counter Strike turnering! Skyd jer ved gennem modstanderne og vis hvem der er dette års CS:GO mestre til NLW!</p>
-      <button type="button" class="btn btn-default btn-block tournament-button center-block disabled">Tilmeld</button>
+      <a href="https://www.toornament.com/tournaments/58e3a6cb140ba0fc618b4593/registration/" target="_blank"><button type="button" class="btn btn-default btn-block tournament-button center-block">Tilmeld</button></a>
     </div>
     <div class='panel-heading'>§1 Format</div>
     <ul class="list-group">
