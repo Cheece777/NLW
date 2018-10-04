@@ -78,7 +78,7 @@
               <li class="col-xs-4">
                 <ul class="header-right-div">
                   <li class="header-right-div-li">
-                    <p><b><h2>NLW #20  <br> 21. - 23. september</h2></b></p>
+                    <p><b><h2>NLW #21  <br> 16. - 18. november</h2></b></p>
                   </li>
                   <li class="header-right-div-li">
                     
