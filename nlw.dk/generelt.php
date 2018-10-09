@@ -19,7 +19,7 @@
       </div>
       <div class="panel-body">
         <p>Nøvling LAN Week afholdes ca. 3 gange årligt.</p>
-        <p>Næste NLW #20 afholdes fra 21. september kl. 18:00 til  23. september kl. 10:00.</p>
+        <p>Næste NLW #21 afholdes fra 16. november kl. 18:00 til  18. november kl. 10:00.</p>
       </div>
     </div>
   
@@ -148,10 +148,10 @@
       </div>
       <div class="panel-body">
         <p>Madbilletten, man kan købe med sin pladsbillet, sikrer aftensmad lørdag aften, samt morgenmad lørdag og søndag morgen.</p>
-        <p>Aftensmaden lørdag aften kl. 19:00 består af all you can eat NLW-gryde*.</p>
+        <p>Aftensmaden lørdag aften kl. 19:00 består af Pulled Pork Burgere! (Her afregnes 2 burgere per deltager).</p>
         <p>Morgenmad lørdag og søndag kl. 08:30 består af rundstykker med marmelade, smør, pålægschokolade og juice/mælk/kaffe.</p>
 
-        <p>*NLW-gryde består af spaghetti med kødsovs, samt gulerod- og agurkestave.</p>
+
       </div>
     </div>
   
