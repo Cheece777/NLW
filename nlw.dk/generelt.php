@@ -19,7 +19,7 @@
       </div>
       <div class="panel-body">
         <p>Nøvling LAN Week afholdes ca. 3 gange årligt.</p>
-        <p>Næste NLW #21 afholdes fra 16. november kl. 18:00 til  18. november kl. 10:00.</p>
+        <p>Næste NLW #22 afholdes fra 1. marts kl. 18:00 til  3. marts kl. 10:00.</p>
       </div>
     </div>
   

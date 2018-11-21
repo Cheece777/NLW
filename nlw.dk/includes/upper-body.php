@@ -34,7 +34,7 @@
         function httpGetAsync(url, callback)
         {
 
-            let xmlHttp = new window.XMLHttpRequest();
+            xmlHttp = new window.XMLHttpRequest();
             const proxyUrl = "https://cors-anywhere.herokuapp.com/" + url;
             xmlHttp.onreadystatechange = function() {
                 if (xmlHttp.readyState === 4) {
@@ -49,7 +49,7 @@
             };
             xmlHttp.open("GET", proxyUrl, true);
             xmlHttp.setRequestHeader("X-PLACE2BOOK-API-TOKEN", "4defa1c56d8e554f7897d4ebf29c3c3c");
-            xmlHttp.setRequestHeader("X-PLACE2BOOK-EVENT-ID", "149616");
+            xmlHttp.setRequestHeader("X-PLACE2BOOK-EVENT-ID", "154689");
             xmlHttp.timeout = 20000;
             xmlHttp.send();
         }
@@ -78,7 +78,7 @@
               <li class="col-xs-4">
                 <ul class="header-right-div">
                   <li class="header-right-div-li">
-                    <p><b><h2>NLW #21  <br> 16. - 18. november</h2></b></p>
+                    <p><b><h2>NLW #22  <br> 1. - 3. marts</h2></b></p>
                   </li>
                   <li class="header-right-div-li">
                     
@@ -87,7 +87,7 @@
 
                     <script>
                     // Set the date we're counting down to
-                    var countDownDate = new Date("Nov 16, 2018 18:00:00").getTime();
+                    var countDownDate = new Date("Mar 01, 2019 18:00:00").getTime();
 
                     // Update the count down every 1 second
                     var x = setInterval(function() {

@@ -105,7 +105,7 @@
           <img class="img-rounded hidden-xs" src="images/logo-program.PNG" alt="program-logo" height="170px" width="170px">
         </div>
         <div class="media-body">
-          <p>Læs her program oversigten over det kommende NLW - Programmet for NLW #20 er ikke opdateret endnu</p>
+          <p>Læs her program oversigten over det kommende NLW</p>
           <p><a class="btn btn-default btn-lg" href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/program';?>" role="button">Program</a></p>
         </div>
       </div>
