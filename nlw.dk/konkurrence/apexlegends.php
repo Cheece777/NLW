@@ -22,7 +22,7 @@
 <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT'). '/includes/upper-body.php'; ?>
 
 <div class="panel panel-primary">
-    <div class="panel-heading banner-fortnite"></div>
+    <div class="panel-heading banner-apex"></div>
     <div class="panel-body">
         <p>Apex Legends!</p>
         <a href="" target="_blank"><button type="button" disabled class="btn btn-default btn-block tournament-button center-block" title="Tilmelding sker ved NLW start">Tilmeld</button></a>
