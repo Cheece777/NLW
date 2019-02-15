@@ -19,24 +19,24 @@
 <body>
   <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT'). '/includes/upper-body.php'; ?>
 
-  <div class="panel panel-primary">
+ <!-- <div class="panel panel-primary">                  Sponsor udkommenteret da vi holder LAN'et selv og ikke har nogen/brug for nogen
     <div class="panel-heading">
       <h1 class="panel-title-large">Sponsorer</h1>
     </div>
     <div class="panel-body">
       <ul class="sponsor-div">
-        <!--<li class="sponsor-div-li col-lg-4">
+        <li class="sponsor-div-li col-lg-4">
           <a href="http://www.bredbaandnord.dk/"><img class="img-responsive" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/bbn.png';?>" alt="NLW Logo" height="60"></a>
-        </li>-->
+        </li>
         <li class="sponsor-div-li col-lg-4">
           <a href="https://www.facebook.com/HyperioNeSportDK/"><img class="center-block" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/hyperion.png';?>" alt="NLW Logo" height="140" width="120"></a>
         </li>
-        <!--<li class="sponsor-div-li col-lg-4">
+        <li class="sponsor-div-li col-lg-4">
           <a href="http://www.bredbaandnord.dk/"><img class="img-responsive" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/bbn.png';?>" alt="NLW Logo" height="60"></a>
-        </li>-->
+        </li>
       </ul>
     </div>
-  </div>
+  </div> -->
   
   <div class="row">
     <div class="col-md-6">
