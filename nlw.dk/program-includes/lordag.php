@@ -27,7 +27,8 @@
     <tr>
         <td>15:00</td>
         <td><p><b>Konkurrence -</b> Keyboard Kast</p>
-            <p>Præmie overrækkes kort efter endt konkurrence</p></td>
+            <p>Præmie overrækkes kort efter endt konkurrence</p>
+        <p>Husk at få spillet Apex Legends!</p></td>
     </tr>
   <tr>
     <td>16:00</td>
@@ -42,11 +43,14 @@
     </tr>
     <tr>
         <td>19:00</td>
-        <td><p><b>Konkurrence -</b> Tid afsat til Fortnite Duo</p></td>
+        <td><p><b>Konkurrence -</b> Tid afsat til Fortnite Duo</p>
+        <p>Husk at få spillet Apex Legends!</p></td>
     </tr>
     <tr>
         <td>20:00</td>
-        <td><p><b>Konkurrence -</b> Tid afsat til Forntie Duo</p>
+        <td><p>Apex Legends er færdig og point tælles sammen</p>
+            <p>Præmie overrækkes kort efter endt konkurrence</p>
+        <p><b>Konkurrence -</b> Tid afsat til Forntie Duo</p>
             </td>
     </tr>
     <tr>
