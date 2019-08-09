@@ -187,6 +187,17 @@
   
     <div class="panel panel-primary">
       <div class="panel-heading">
+        <h3 class="panel-title">Konkurrencer</h3>
+        </div>
+        <div class="panel-body">
+        <p>Nøvling LAN Week tager forbehold for antal deltagere, og retten til at annullere konkurrencer, hvis der ikke er nok tilmeldinger.</p>
+        <p>Reglerne for konkurrencerne, kan findes under de respektive konkurrence sider: <a href="konkurrencer.php">Konkurrencer</a></p>
+    </div>
+    </div>
+
+
+    <div class="panel panel-primary">
+      <div class="panel-heading">
         <h3 class="panel-title">Glemte sager</h3>
       </div>
       <div class="panel-body">
