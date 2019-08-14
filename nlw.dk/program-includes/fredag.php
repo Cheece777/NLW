@@ -20,13 +20,11 @@
   </tr>
   <tr>
     <td>20:00</td>
-      <td><p>Apex Legends konkurrence starter - Kører 24 timer - indtil Lørdag kl. 20:00</p>
-      <p>Husk at få spillet Fortnite Solo games</p></td>
+      <td><p>Husk at få spillet Fortnite Solo games</p></td>
   </tr>
   <tr>
     <td>22:00</td>
-      <td><p>Husk at få spillet Apex Legends!</p>
-    <p>Husk at få spillet Fortnite Solo games</p></td>
+      <td><p>Husk at få spillet Fortnite Solo games</p></td>
   </tr>
   <tr>
     <td>00:00</td>
