@@ -49,7 +49,7 @@
             };
             xmlHttp.open("GET", proxyUrl, true);
             xmlHttp.setRequestHeader("X-PLACE2BOOK-API-TOKEN", "4defa1c56d8e554f7897d4ebf29c3c3c");
-            xmlHttp.setRequestHeader("X-PLACE2BOOK-EVENT-ID", "181034");
+            xmlHttp.setRequestHeader("X-PLACE2BOOK-EVENT-ID", "188805");
             xmlHttp.timeout = 20000;
             xmlHttp.send();
         }
@@ -78,7 +78,7 @@
               <li class="col-xs-4">
                 <ul class="header-right-div">
                   <li class="header-right-div-li">
-                    <p><b><h2>NLW #25  <br> 1. november - 3. november</h2></b></p>
+                    <p><b><h2>NLW #26  <br> 7. februar - 9. februar</h2></b></p>
                   </li>
                   <li class="header-right-div-li">
                     
@@ -87,7 +87,7 @@
 
                     <script>
                     // Set the date we're counting down to
-                    var countDownDate = new Date("NOV 1, 2019 18:00:00").getTime();
+                    var countDownDate = new Date("FEB 7, 2020 18:00:00").getTime();
 
                     // Update the count down every 1 second
                     var x = setInterval(function() {

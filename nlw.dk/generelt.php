@@ -19,7 +19,7 @@
       </div>
       <div class="panel-body">
         <p>Nøvling LAN Week afholdes ca. 3 gange årligt.</p>
-        <p>Næste NLW #25 afholdes fra 1. november kl. 18:00 til  3. november kl. 10:00.</p>
+        <p>Næste NLW #26 afholdes fra 7. februar kl. 18:00 til  9. februar kl. 10:00.</p>
       </div>
     </div>
   
@@ -93,6 +93,10 @@
           <li class="list-group-item">
             <span class="badge">15 kr/stk</span>
             Energidrik fl. varianter*
+          </li>
+          <li class="list-group-item">
+            <span class="badge">15 kr/stk</span>
+            Cocio
           </li>
           </li>
         </ul>
@@ -180,7 +184,7 @@
       </div>
       <div class="panel-body">
         <p>Nøvling LAN Week sørger altid for den bedst mulig forbindelse, (der kan opkræves på landet).</p>
-        <p>Hastighed: OVER 100/100 Mbit bredbånd, med en forbindelse på 1 Gbit(1000 Mbit) mellem deltagerne.</p>
+        <p>Hastighed: 100/100 Mbit bredbånd, med en forbindelse på 1 Gbit(1000 Mbit) mellem deltagerne.</p>
         <p>For at belaste bredbåndet mindst muligt, bedes deltagerne have forudinstalleret og opdateret spil hjemmefra - på den måde får alle den bedste gaming oplevelse.</p>
       </div>
     </div>
