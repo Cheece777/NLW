@@ -35,22 +35,22 @@
   </tr>
 
     <tr>
-        <td>18:00</td>
+        <td>19:00</td>
         <td><p><b>Aftensmad -</b> NLW-gryde til deltagere med madbillet</p>
         <p>Minecraft bliver vist frem og en vinder findes ved afstemning</p>
         <p>Præmie overrækkes kort efter endt konkurrence</p></td>
     </tr>
     <tr>
-        <td>19:00</td>
+        <td>20:00</td>
         <td><p><b>Konkurrence -</b> Tid afsat til Fortnite Duo</p></td>
     </tr>
     <tr>
-        <td>20:00</td>
+        <td>21:00</td>
         <td><p><b>Konkurrence -</b> Tid afsat til Forntie Duo</p>
             </td>
     </tr>
     <tr>
-        <td>23:00</td>
+        <td>00:00</td>
         <td><p><b>Konkurrence -</b> Tid afsat til Fortnite Duo Grand finals</p>
         <p>Præmie overrækkes kort efter endt konkurrence</p></td>
     </tr>
