@@ -19,7 +19,7 @@
       </div>
       <div class="panel-body">
         <p>Nøvling LAN Week afholdes ca. 3 gange årligt.</p>
-        <p>Næste NLW #26 afholdes fra 7. februar kl. 18:00 til  9. februar kl. 10:00.</p>
+        <p>Næste NLW #27 afholdes fra 15. maj kl. 18:00 til  17. maj kl. 10:00.</p>
       </div>
     </div>
   
@@ -122,14 +122,14 @@
             <span class="badge">150 kr</span>
             Forudbestilling mere end 10 dage før /uden mad
           </li>
-          <li class="list-group-item" onclick="buyTicketFunc()">
+         <!-- <li class="list-group-item" onclick="buyTicketFunc()">
             <span class="badge">200 kr</span>
             Forudbestilling mindre end 10 dage før /med mad
           </li>
           <li class="list-group-item" onclick="buyTicketFunc()">
             <span class="badge">175 kr</span>
             Forudbestilling mindre end 10 dage før /uden mad
-          </li>
+          </li> !-->
           <li class="list-group-item">
             <span class="badge">200 kr</span>
             Billet i døren /uden mad

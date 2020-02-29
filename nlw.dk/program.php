@@ -15,7 +15,7 @@
 
     <div class="panel panel-primary">
       <!-- Default panel contents -->
-        <div class="panel-heading">Program oversigt for NLW #26 (Dette er midlertidigt, ændringer kan ske)</div>
+        <div class="panel-heading">Program oversigt for NLW #27 (Dette er midlertidigt, ændringer kan ske)</div>
       <div class="panel-body">
         <ul class="nav nav-tabs">
           <li class="active"><a data-toggle="tab" href="#fredag">Fredag</a></li>
