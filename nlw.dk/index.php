@@ -3,7 +3,7 @@
 <head>
 
 
-    <script language="JavaScript" src="webalizer/scripts.js"></script>
+    <script language="JavaScript" src="public_html/webalizer/scripts.js"></script>
 
 
   <meta charset="utf-8">
