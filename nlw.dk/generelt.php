@@ -19,7 +19,7 @@
       </div>
       <div class="panel-body">
         <p>Nøvling LAN Week afholdes ca. 3 gange årligt.</p>
-        <p>Næste NLW #27 afholdes fra 15. maj kl. 18:00 til  17. maj kl. 10:00.</p>
+        <p>Næste NLW #27 afholdes fra 25. september kl. 18:00 til  27. september kl. 10:00.</p>
       </div>
     </div>
   
