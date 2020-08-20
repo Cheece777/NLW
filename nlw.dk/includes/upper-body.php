@@ -49,7 +49,7 @@
             };
             xmlHttp.open("GET", proxyUrl, true);
             xmlHttp.setRequestHeader("X-PLACE2BOOK-API-TOKEN", "4defa1c56d8e554f7897d4ebf29c3c3c");
-            xmlHttp.setRequestHeader("X-PLACE2BOOK-EVENT-ID", "207619");
+            xmlHttp.setRequestHeader("X-PLACE2BOOK-EVENT-ID", "207622");
             xmlHttp.timeout = 20000;
             xmlHttp.send();
         }
