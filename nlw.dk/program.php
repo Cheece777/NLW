@@ -15,7 +15,7 @@
 
     <div class="panel panel-primary">
       <!-- Default panel contents -->
-        <div class="panel-heading">Program oversigt for NLW #27 (Dette er midlertidigt, ændringer kan ske)</div>
+        <div class="panel-heading">Program oversigt for NLW #29 (Dette er midlertidigt, ændringer kan ske)</div>
       <div class="panel-body">
         <ul class="nav nav-tabs">
           <li class="active"><a data-toggle="tab" href="#fredag">Fredag</a></li>
@@ -34,6 +34,7 @@
             <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT').'/program-includes/sondag.php';?>
           </div>
         </div>
+        <p>Konkurrencer vil blive afholdt fra fredag aften til og med lørdag aften.</p>
       </div>
     </div>
 

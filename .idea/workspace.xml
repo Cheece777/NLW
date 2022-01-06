@@ -2,65 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d58e8182-3650-4b81-af0c-40aed2999bb3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nlw.dk/generelt.php" afterPath="$PROJECT_DIR$/nlw.dk/generelt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nlw.dk/includes/upper-body.php" afterPath="$PROJECT_DIR$/nlw.dk/includes/upper-body.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nlw.dk/program-includes/fredag.php" afterPath="$PROJECT_DIR$/nlw.dk/program-includes/fredag.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nlw.dk/program-includes/lordag.php" afterPath="$PROJECT_DIR$/nlw.dk/program-includes/lordag.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nlw.dk/program.php" afterPath="$PROJECT_DIR$/nlw.dk/program.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nlw.dk/webalizer/scripts.js" afterPath="$PROJECT_DIR$/nlw.dk/webalizer/scripts.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlw.dk/includes/lower-body.php" beforeDir="false" afterPath="$PROJECT_DIR$/nlw.dk/includes/lower-body.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlw.dk/includes/upper-body.php" beforeDir="false" afterPath="$PROJECT_DIR$/nlw.dk/includes/upper-body.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlw.dk/program-includes/fredag.php" beforeDir="false" afterPath="$PROJECT_DIR$/nlw.dk/program-includes/fredag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlw.dk/program-includes/lordag.php" beforeDir="false" afterPath="$PROJECT_DIR$/nlw.dk/program-includes/lordag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlw.dk/program.php" beforeDir="false" afterPath="$PROJECT_DIR$/nlw.dk/program.php" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="upper-body.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nlw.dk/includes/upper-body.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="141" column="35" lean-forward="true" selection-start-line="141" selection-start-column="35" selection-end-line="141" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nlw.dk/webalizer/scripts.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="99" lean-forward="false" selection-start-line="12" selection-start-column="99" selection-end-line="12" selection-end-column="99" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="program.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nlw.dk/program.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="64" lean-forward="true" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="generelt.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nlw.dk/generelt.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -106,6 +58,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -113,6 +68,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectId" id="23Ky6YJpr9KcoumKUpTu1gL2fly" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -194,12 +150,16 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="header&#9;null&#9;null&#10;body &#9;null&#9;null&#10;background&#9;ACTION&#9;Images.SetBackgroundImage&#10;body&#9;FILE&#9;file://C:/Users/cheec/Documents/GitHub/NLW-Website/nlw.dk/includes/body.php" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
-    <property name="SearchEverywhereHistoryKey" value="header&#9;null&#9;null&#10;body &#9;null&#9;null&#10;background&#9;ACTION&#9;Images.SetBackgroundImage&#10;body&#9;FILE&#9;file://C:/Users/cheec/Documents/GitHub/NLW-Website/nlw.dk/includes/body.php" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -211,19 +171,7 @@
       <recent name="C:\Users\cheec\Documents\GitHub\NLW-Website\nlw.dk\images\banner" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JavaScript Debug.feelinglucky.php">
+  <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -265,12 +213,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -305,27 +247,21 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
     <configuration name="feelinglucky.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/NLW-Website/nlw.dk/konkurrence/feelinglucky.php" />
     <configuration name="fortnite.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/NLW-Website/nlw.dk/konkurrence/fortnite.php" />
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.fortnite.php" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.feelinglucky.php" />
-    </list>
-    <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.feelinglucky.php" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.fortnite.php" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -390,13 +326,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/nlw.dk/index.php">
