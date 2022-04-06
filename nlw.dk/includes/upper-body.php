@@ -21,7 +21,7 @@
                   </div>
 
 <div class="row" style="margin-left: 5px">
-    <h4 style="color: #ffffff">Antal ledige pladser tilbage: &nbsp;<b><span id="seats"> </span> ud af 73</b></h4>
+<!--     <h4 style="color: #ffffff">Antal ledige pladser tilbage: &nbsp;<b><span id="seats"> </span> ud af 73</b></h4>
 
     <h4 style="color: #ffffff">Størrelse af præmiepulje udregnet fra antal deltagere (Maks 3000 kr.)</h4>
         <div class="progress" style="height:40px">
@@ -49,7 +49,7 @@
             };
             xmlHttp.open("GET", proxyUrl, true);
             xmlHttp.setRequestHeader("X-PLACE2BOOK-API-TOKEN", "4defa1c56d8e554f7897d4ebf29c3c3c");
-            xmlHttp.setRequestHeader("X-PLACE2BOOK-EVENT-ID", "207622");
+            xmlHttp.setRequestHeader("X-PLACE2BOOK-EVENT-ID", "286859");
             xmlHttp.timeout = 20000;
             xmlHttp.send();
         }
@@ -72,13 +72,13 @@
 
         const serviceUrl = 'https://api.place2book.com/event_api/available_tickets';
         httpGetAsync(serviceUrl, handler);
-    </script>
+    </script> --> 
 </div>
               </li>
               <li class="col-xs-4">
                 <ul class="header-right-div">
                   <li class="header-right-div-li">
-                    <p><b><h2>NLW #29  <br> 25. - 27. februar</h2></b></p>
+                    <p><b><h2>NLW #30  <br> 16. - 18. september</h2></b></p>
                   </li>
                   <li class="header-right-div-li">
                     
@@ -87,7 +87,7 @@
 
                     <script>
                     // Set the date we're counting down to
-                    var countDownDate = new Date("FEB 25, 2022 18:00:00").getTime();
+                    var countDownDate = new Date("SEP 16, 2022 18:00:00").getTime();
 
                     // Update the count down every 1 second
                     var x = setInterval(function() {
@@ -139,7 +139,7 @@
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-              <li><a href="https://place2book.com/da/sw2/sales/1d8ur6va4w" target="_blank"><b>Køb Billet</b></a></li>
+              <li><a href="https://www.place2book.com/da/sw2/sales/e01vew84eb" target="_blank"><b>Køb Billet</b></a></li>
 
                 <li><a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/generelt';?>">Generelt</a></li>
               <li class="dropdown">
