@@ -33,27 +33,6 @@
         <p>Skulle der være brug for det, er der gratis parkering omkring forsamlingshuset.</p>
       </div>
       <div class="panel-footer">
-        <!--  <div id="map" style="width:100%;height:400px"></div>   -->
-
-       <!-- <script>
-
-
-          function initMap() {
-            var forsamlingshus = {lat: 56.973445, lng: 9.957800};
-            var map = new google.maps.Map(document.getElementById('map'), {
-              zoom: 17,
-              center: forsamlingshus
-            });
-            var marker = new google.maps.Marker({
-              position: forsamlingshus,
-              map: map
-            });
-          }
-        </script>
-
-        <script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
-        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCGPkDfY5Od07wJiq_oHSxhWYavtoYEuyI&callback=initMap"></script>
-          -->
           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2174.560471863361!2d9.95558621565957!3d56.97346108089732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464ecb565b331575%3A0x661d1fe1881280e5!2sN%C3%B8vling+Forsamlingshus!5e0!3m2!1sda!2sdk!4v1501230642593" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
       </div>
     </div>
@@ -83,25 +62,25 @@
             Kaffe under hele NLW
           </li>
           <li class="list-group-item">
-            <span class="badge">1 for 10 kr - 2 for 15 kr</span>
+            <span class="badge">10 kr/stk</span>
             Toast
           </li>
           <li class="list-group-item">
-            <span class="badge">1 for 10 kr - 2 for 15 kr</span>
+            <span class="badge">10 kr/stk</span>
             Sodavand fl. varianter
           </li>
           <li class="list-group-item">
-            <span class="badge">15 kr/stk</span>
+            <span class="badge">20 kr/stk</span>
             Energidrik fl. varianter*
           </li>
           <li class="list-group-item">
-            <span class="badge">15 kr/stk</span>
+            <span class="badge">20 kr/stk</span>
             Cocio
           </li>
           </li>
         </ul>
         
-        <p>Overstående er vejledende priser og der tages derfor forbehold for prisændringer under arrangementet. Toast og Sodavand kan kombineres.</p>
+        <p>Overstående er vejledende priser og der tages derfor forbehold for prisændringer under arrangementet.</p>
         <p>*Energidrik sælges kun til deltagere over 16 år eller med gyldig underskrift fra forældre.</p>
       </div>
     </div>
@@ -111,37 +90,10 @@
         <h3 class="panel-title">Pris for deltagelse ved NLW</h3>
       </div>
       <div class="panel-body">
-        <p>Prisen for deltagelse til Nøvling LAN Week varierer, da man kan tilkøbe mad. Det er også værd at bemærke, at prisen er billigere, hvis man bestiller sin billet i god tid.</p>
+        <p>Prisen for deltagelse til Nøvling LAN Week varierer, da man kan tilkøbe mad.</p>
+        <p>Det er også værd at bemærke, at prisen er billigere, hvis man bestiller sin billet i god tid.</p>
         
-        <ul class="list-group">
-          <li class="list-group-item" onclick="buyTicketFunc()">
-            <span class="badge">175 kr</span>
-            Forudbestilling mere end 10 dage før /med mad
-          </li>
-          <li class="list-group-item" onclick="buyTicketFunc()">
-            <span class="badge">150 kr</span>
-            Forudbestilling mere end 10 dage før /uden mad
-          </li>
-         <!-- <li class="list-group-item" onclick="buyTicketFunc()">
-            <span class="badge">200 kr</span>
-            Forudbestilling mindre end 10 dage før /med mad
-          </li>
-          <li class="list-group-item" onclick="buyTicketFunc()">
-            <span class="badge">175 kr</span>
-            Forudbestilling mindre end 10 dage før /uden mad
-          </li> !-->
-          <li class="list-group-item">
-            <span class="badge">200 kr</span>
-            Billet i døren /uden mad
-          </li>
-          <li class="list-group-item">
-            <span class="badge">30 kr</span>
-              <p>Gæstebillet til de der deltager uden computer og mad, men bliver ved NLW i flere timer. Betales i døren</p>
-              <p>
-                  NB! Det kræver ikke gæstebillet at komme ind og se NLW i en halv times tid!
-              </p>
-          </li>
-        </ul>
+        <p><a class="btn btn-default btn-lg" href="https://www.place2book.com/da/sw2/sales/f5avnvpcuw" role="button">Køb billet</a></p>
         
       </div>
     </div>

@@ -5,7 +5,7 @@
   </tr>
   <tr>
     <td>18:00</td>
-    <td>Ankomst - Alle tilmeldinger til konkurrencer er åbne frem til ½ time før start</td>
+    <td>NLW slår dørene op!</td>
   </tr>
   <tr>
     <td>18:30</td>
@@ -13,6 +13,14 @@
   </tr>
   <tr>
     <td>19:00</td>
-    <td><p>Minecraft serveren starter</p></td>
+    <td><p><b>Konkurrence </b>Arcade maskinen tændes med fredagens spil</p></td>
+  </tr>
+  <tr>
+    <td>20:00</td>
+    <td><p><b>Konkurrence </b>Minecraft</p></td>
+  </tr>
+  <tr>
+    <td>21:00</td>
+    <td><p><b>Konkurrence </b>Feeling Lucky</p></td>
   </tr>
 </table>

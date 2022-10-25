@@ -12,16 +12,31 @@
     <td>Morgenmaden sættes væk</td>
   </tr>
   <tr>
-    <td>12:30</td>
-    <td><b>Frokost -</b> Der kan købes varme pølsehorn i kiosken!</td>
+    <td>12:00</td>
+    <td><p><b>Konkurrence </b>Arcade maskinen tændes med lørdagens spil</p></td>
   </tr>
-    <tr>
-        <td>19:00</td>
-        <td><p><b>Aftensmad -</b> til deltagere med madbillet</p></td>
-    </tr>
-    <tr>
-        <td>21:00</td>
-        <td><p><b>Konkurrence -</b> Tid afsat til Forntie Duo</p>
-            </td>
-    </tr>
+  <tr>
+    <td>12:30</td>
+    <td>Frokost (Der kan købes varme pølsehorn i kiosken)</td>
+  </tr>
+  <tr>
+    <td>14:00</td>
+    <td><p><b>Konkurrence </b>Cocio crash</p></td>
+  </tr>
+  <tr>
+    <td>16:00</td>
+    <td><p><b>Konkurrence </b>Keyboard kast</p></td>
+  </tr>
+  <tr>
+    <td>19:00</td>
+    <td>
+      <p>Aftensmad til deltagere med madbillet</p>
+    </td>
+  </tr>
+  <tr>
+    <td>21:00</td>
+    <td>
+      <p><b>Konkurrence </b>Trackmania</p>
+    </td>
+  </tr>
 </table>
