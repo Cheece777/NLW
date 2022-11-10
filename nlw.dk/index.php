@@ -65,18 +65,14 @@
           <h1 class="panel-title-large">Konkurrencer</h1>
         </div>
         <div class="panel-body header-div">
-      <!--    <div class="col-md-6 col-sm-6 col-xs-12 header-div-sub">
-            <a  href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/konkurrence/counterstrike';?>"><img class="img-responsive tournament-image center-block" src="/images/logo/cs-logo.png" alt="CS Tournament" height="80"></a>
-          </div> -->
-            <div class="col-md-6 col-sm-6 col-xs-12 header-div-sub">
-                <a  href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/konkurrence/fortnite';?>"><img class="img-responsive tournament-image center-block" src="/images/logo/fortnite-logo.png" alt="Fortnite Tournament" height="80"></a>
-                <!--<button type="button" class="btn btn-default">Tilmeld</button>-->
-            </div>
-          <!-- <div class="col-md-6 col-sm-6 col-xs-12 header-div-sub">
-            <a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/konkurrence/apexlegends';?>"><img class="img-responsive tournament-image center-block" src="/images/logo/apex-logo.png" alt="Apex Legends Tournament" height="80"></a>
-          </div> -->
+          <div class="col-md-6 col-sm-6 col-xs-12 header-div-sub">
+            <a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/konkurrence/fifa';?>"><img class="img-responsive tournament-image center-block" src="/images/logo/fifa-logo.png" alt="FIFA Tournament" height="80"></a>
+          </div>
           <div class="col-md-6 col-sm-6 col-xs-12 header-div-sub">
             <a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/konkurrence/minecraft';?>"><img class="img-responsive tournament-image center-block" src="/images/logo/minecraft-logo.png" alt="MC Tournament" height="80"></a>
+          </div>
+          <div class="col-md-6 col-sm-6 col-xs-12 header-div-sub">
+            <a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/konkurrence/trackmania';?>"><img class="img-responsive tournament-image center-block" src="/images/logo/trackmania-logo.png" alt="Trackmania Tournament" height="80"></a>
           </div>
           <div class="col-md-6 col-sm-6 col-xs-12 header-div-sub">
             <a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/konkurrence/udendors';?>"><img class="img-responsive tournament-image center-block" src="/images/logo/udendors-logo.png" alt="Udendors" height="80"></a>
