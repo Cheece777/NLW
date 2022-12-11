@@ -19,7 +19,7 @@
       </div>
       <div class="panel-body">
         <p>Nøvling LAN Week afholdes ca. 3 gange årligt.</p>
-        <p>Næste NLW #30 afholdes fra 16. september kl. 18:00 til  18. september kl. 10:00.</p>
+        <p>Næste NLW #31 afholdes fra 13. januar 2023 kl. 18:00 til  15. januar 2023 kl. 10:00</p>
       </div>
     </div>
   
@@ -90,10 +90,10 @@
         <h3 class="panel-title">Pris for deltagelse ved NLW</h3>
       </div>
       <div class="panel-body">
-        <p>Prisen for deltagelse til Nøvling LAN Week varierer, da man kan tilkøbe mad.</p>
+        <p>Prisen for deltagelse til Nøvling LAN Week ligger på 175 kr til 225 kr.</p>
         <p>Det er også værd at bemærke, at prisen er billigere, hvis man bestiller sin billet i god tid.</p>
         
-        <p><a class="btn btn-primary btn-lg" href="https://www.place2book.com/da/sw2/sales/f5avnvpcuw" role="button">Køb billet</a></p>
+        <p><a class="btn btn-primary btn-lg" href="https://www.place2book.com/da/sw2/sales/f5avnvpcuw" target="_blank" role="button">Køb billet</a></p>
         
       </div>
     </div>

@@ -18,23 +18,6 @@
         <h2 class="panel-title">Arrangører</h2>
       </div>
       <div class="panel-body">
-        <div class="panel panel-default col-md-6">
-          <div class="panel-body">
-            <div class="media">
-              <div class="media-left">
-                <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/thm.png';?>" alt="Tobias Ettrup Mølbak">
-              </div>
-              <div class="media-body">
-                <h4 class="media-heading"><b>Tobias Hvass Mølbak</b></h4>
-                <ul>
-                  <li>Game tag: Bille</li>
-                  <li>Alder: <?php echo date_diff(date_create('1993-04-17'), date_create('today'))->y;?></li>
-                  <li>Opsætningsansvarlig og teknisk support</li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
 
         <div class="panel panel-default col-md-6">
           <div class="panel-body">
@@ -47,7 +30,6 @@
                 <ul>
                   <li>Game tag: Cheece</li>
                   <li>Alder: <?php echo date_diff(date_create('1993-03-30'), date_create('today'))->y;?></li>
-                  <li>Hovedplanlægning og kontaktperson</li>
                 </ul>
               </div>
             </div>
@@ -65,7 +47,23 @@
                 <ul>
                   <li>Game tag: Nuzz</li>
                   <li>Alder: <?php echo date_diff(date_create('1996-02-21'), date_create('today'))->y;?></li>
-                  <li>Hovedansvarlig ved arrangementet</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel panel-default col-md-6">
+          <div class="panel-body">
+            <div class="media">
+              <div class="media-left">
+                <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/thm.png';?>" alt="Tobias Ettrup Mølbak">
+              </div>
+              <div class="media-body">
+                <h4 class="media-heading"><b>Tobias Hvass Mølbak</b></h4>
+                <ul>
+                  <li>Game tag: Bille</li>
+                  <li>Alder: <?php echo date_diff(date_create('1993-04-17'), date_create('today'))->y;?></li>
                 </ul>
               </div>
             </div>
@@ -83,7 +81,6 @@
                 <ul>
                   <li>Game tag: d1PS</li>
                   <li>Alder: <?php echo date_diff(date_create('1996-02-21'), date_create('today'))->y;?></li>
-                  <li>Konkurrenceansvarlig</li>
                 </ul>
               </div>
             </div>
@@ -101,7 +98,6 @@
                 <ul>
                   <li>Game tag: Staghøj</li>
                   <li>Alder: <?php echo date_diff(date_create('1995-11-10'), date_create('today'))->y;?></li>
-                  <li>Udendørs konkurrencer og nattevagt</li>
                 </ul>
               </div>
             </div>
@@ -119,7 +115,6 @@
                 <ul>
                   <li>Game tag: barcandy</li>
                   <li>Alder: <?php echo date_diff(date_create('1995-09-07'), date_create('today'))->y;?></li>
-                  <li>Konkurrenceansvarlig</li>
                 </ul>
               </div>
             </div>
@@ -137,7 +132,6 @@
                 <ul>
                   <li>Game tag: Vollstedt</li>
                   <li>Alder: <?php echo date_diff(date_create('1996-09-12'), date_create('today'))->y;?></li>
-                  <li>Trackmania ansvarlig</li>
                 </ul>
               </div>
             </div>
@@ -155,12 +149,29 @@
                 <ul>
                   <li>Game tag: Thode</li>
                   <li>Alder: <?php echo date_diff(date_create('1996-03-11'), date_create('today'))->y;?></li>
-                  <li>Indkøbs- og konkurrence ansvarlig</li>
                 </ul>
               </div>
             </div>
           </div>
         </div>
+
+        <div class="panel panel-default col-md-6">
+          <div class="panel-body">
+            <div class="media">
+              <div class="media-left">
+                <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/anon.png';?>" alt="Martin Glinvad">
+              </div>
+              <div class="media-body">
+                <h4 class="media-heading"><b>Martin Glinvad</b></h4>
+                <ul>
+                  <li>Game tag: Glinvad</li>
+                  <li>Alder: <?php echo date_diff(date_create('1997-10-18'), date_create('today'))->y;?></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
       </div>
     </div>
 
