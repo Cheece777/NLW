@@ -67,7 +67,7 @@ body {
 }
 
 .banner-fortnite {
-  background-image: url("/images/banner/fortnitebanner.jpg");
+  background-image: url("/images/banner/fortnite-banner.jpg");
   background-position: center;
   background-size: cover;
   -webkit-background-size: cover;
@@ -98,6 +98,17 @@ body {
 
 .banner-minecraft {
   background-image: url("/images/banner/minecraft-banner.png");
+  background-position: left top;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height: 100px;
+}
+
+
+.banner-fifa {
+  background-image: url("/images/banner/fifa-banner.png");
   background-position: left top;
   background-size: cover;
   -webkit-background-size: cover;

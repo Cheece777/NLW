@@ -17,7 +17,6 @@
     <div class="panel-heading banner-custom"></div>
     <div class="panel-body">
       <p>Er der en turnering vi mangler at få med? Få hjælp af NLW's crew til at starte din egen turnering!</p>
-      <button type="button" class="btn btn-default btn-block tournament-button center-block disabled">Tilmeld</button>
     </div>
     <div class='panel-heading'>§1 Format</div>
     <ul class="list-group">
