@@ -39,6 +39,18 @@
   </div> -->
   
   <div class="row">
+
+    <div class="col-md-12">
+      <div class="panel panel-primary">
+        <div class="panel-heading">
+          <h1 class="panel-title-large">Køb din billet allerede nu!</h1>
+        </div>
+        <div class="panel-body">
+          <p><a class="btn btn-primary btn-lg btn-block" href="https://www.place2book.com/da/sw2/sales/f5avnvpcuw" target="_blank" role="button">Køb billet</a></p>
+        </div>
+      </div>
+    </div>
+
     <div class="col-md-6">
       <div class="panel panel-primary">
         <div class="panel-heading">
@@ -102,7 +114,7 @@
         </div>
         <div class="media-body">
           <p>Læs her program oversigten over det kommende NLW</p>
-          <p><a class="btn btn-default btn-lg" href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/program';?>" role="button">Program</a></p>
+          <p><a class="btn btn-primary btn-lg" href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/program';?>" role="button">Program</a></p>
         </div>
       </div>
     </div>
@@ -120,7 +132,7 @@
         </div>
         <div class="media-body">
           <p>Tag kontakt til NLW's crew hvis du har spørgsmål omkring arrangementet</p>
-          <p><a class="btn btn-default btn-lg" href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/kontakt';?>" role="button">Kontakt</a></p>
+          <p><a class="btn btn-primary btn-lg" href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/kontakt';?>" role="button">Kontakt</a></p>
         </div>
       </div>
       

@@ -22,7 +22,7 @@
           <div class="panel-body">
             <div class="media">
               <div class="media-left">
-                <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/thm.png';?>" alt="Tobias Hvass Mølbak">
+                <img class="media-object" src="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/images/crew/thm.png';?>" alt="Tobias Ettrup Mølbak">
               </div>
               <div class="media-body">
                 <h4 class="media-heading"><b>Tobias Hvass Mølbak</b></h4>
