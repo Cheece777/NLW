@@ -20,6 +20,10 @@
     <td>Frokost (Der kan købes varme pølsehorn i kiosken)</td>
   </tr>
   <tr>
+    <td>13:00</td>
+    <td><p><b>Konkurrence </b>FIFA</p></td>
+  </tr>
+  <tr>
     <td>14:00</td>
     <td><p><b>Konkurrence </b>Cocio crash</p></td>
   </tr>

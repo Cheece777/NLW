@@ -17,10 +17,10 @@
   </tr>
   <tr>
     <td>20:00</td>
-    <td><p><b>Konkurrence </b>Minecraft</p></td>
+    <td><p><b>Konkurrence </b>Feeling Lucky</p></td>
   </tr>
   <tr>
     <td>21:00</td>
-    <td><p><b>Konkurrence </b>Feeling Lucky</p></td>
+    <td><p><b>Konkurrence </b>Minecraft</p></td>
   </tr>
 </table>

@@ -34,7 +34,7 @@
       <li class="list-group-item">§2.1 Snyd resulter i udelukkelse.</li>
       <li class="list-group-item">§2.2 Deltageren skal holde sig til samme navn og bil under hele konkurrencen.</li>
     </ul>
-    <!-- <div class='panel-heading'>§3 Tilmelding</div>
+    <div class='panel-heading'>§3 Tilmelding</div>
     <ul class="list-group">
       <li class="list-group-item">§3.1 Tilmeldingen til Trackmania konkurrencen er fri.</li>
       <li class="list-group-item">§3.2 Det vil sige, at alle kan tilmelde sig ved blot at tilslutte sig, når Trackmania starter.</li>
@@ -42,14 +42,14 @@
     </ul>
     <div class='panel-heading'>§4 Præmie</div>
     <ul class="list-group">
-      <li class="list-group-item">1. pladsen 200 kr.*</li>
-      <li class="list-group-item">2. pladsen 150 kr.*</li>
+      <li class="list-group-item">1. pladsen NLW Natmenu (Et gavekort bestående af 2 toasts og 1 sodavand)</li>
+      <!--<li class="list-group-item">2. pladsen 150 kr.*</li>
       <li class="list-group-item">3. pladsen 100 kr.*</li>
       <li class="list-group-item">4. pladsen 50 kr.*</li>
       <li class="list-group-item">5.-6. pladsen 2x Toast</li>
       <li class="list-group-item">7.-10. pladsen 1x Toast</li>
-      <li class="list-group-item">*Ved maksimal præmiepulje</li>
-    </ul> -->
+      <li class="list-group-item">*Ved maksimal præmiepulje</li> -->
+    </ul>
   </div>
 
   <?php include filter_input(INPUT_SERVER, 'DOCUMENT_ROOT') . '/includes/lower-body.php';?>

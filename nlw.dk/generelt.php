@@ -19,7 +19,7 @@
       </div>
       <div class="panel-body">
         <p>Nøvling LAN Week afholdes ca. 3 gange årligt.</p>
-        <p>Næste NLW #31 afholdes fra 13. januar 2023 kl. 18:00 til  15. januar 2023 kl. 10:00</p>
+        <p>Næste NLW #32 afholdes fra 14. april 2023 kl. 18:00 til  16. april 2023 kl. 10:00</p>
       </div>
     </div>
   
@@ -58,7 +58,7 @@
         
         <ul class="list-group">
           <li class="list-group-item">
-            <span class="badge">20 kr</span>
+            <span class="badge">30 kr</span>
             Kaffe under hele NLW
           </li>
           <li class="list-group-item">
@@ -91,7 +91,7 @@
       </div>
       <div class="panel-body">
         <p>Prisen for deltagelse til Nøvling LAN Week ligger på 175 kr til 225 kr.</p>
-        <p>Det er også værd at bemærke, at prisen er billigere, hvis man bestiller sin billet i god tid.</p>
+        <!--<p>Det er også værd at bemærke, at prisen er billigere, hvis man bestiller sin billet i god tid.</p>-->
         
         <p><a class="btn btn-primary btn-lg" href="https://www.place2book.com/da/sw2/sales/93pgd47x9s" target="_blank" role="button">Køb billet</a></p>
         
@@ -106,8 +106,7 @@
         <p>Madbilletten, man kan købe med sin pladsbillet, sikrer aftensmad lørdag aften, samt morgenmad lørdag og søndag morgen.</p>
         <p>Aftensmaden lørdag aften kl. 19:00 består af Pulled Pork Burgere! (Her afregnes 2 burgere per deltager).</p>
         <p>Morgenmad lørdag og søndag kl. 08:30 består af rundstykker med marmelade, smør, pålægschokolade og juice/mælk/kaffe.</p>
-
-
+        <p>Det er yderligere muligt at tilkøbe cheeseburgers sammen med din billet, så du i løbet af fredag aften kan få lidt at spise!</p>
       </div>
     </div>
   
@@ -136,7 +135,7 @@
       </div>
       <div class="panel-body">
         <p>Nøvling LAN Week sørger altid for den bedst mulig forbindelse, (der kan opkræves på landet).</p>
-        <p>Hastighed: 100/100 Mbit bredbånd, med en forbindelse på 1 Gbit(1000 Mbit) mellem deltagerne.</p>
+        <p>Hastighed: 50/50 Mbit bredbånd, med en forbindelse på 1 Gbit(1000 Mbit) mellem deltagerne.</p>
         <p>For at belaste bredbåndet mindst muligt, bedes deltagerne have forudinstalleret og opdateret spil hjemmefra - på den måde får alle den bedste gaming oplevelse.</p>
       </div>
     </div>

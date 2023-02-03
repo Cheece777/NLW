@@ -24,6 +24,7 @@
           <p><b>Telefon:</b> 60 45 30 35</p>
           <p><b>Mail:</b> NovlingLanWeek@gmail.com</p>
           <p><b>Facebook:</b> <a href="https://www.facebook.com/NovlingLANWeek">Nøvling Lan Week - NLW</a></p>
+          <p><b>Benyt telefon eller Facebook besked for hurtigst svartid</b></p>
         </div>
       </div>
       

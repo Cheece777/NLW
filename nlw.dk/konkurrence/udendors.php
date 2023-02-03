@@ -26,11 +26,11 @@
 
         <!-- List group -->
         <ul class="list-group">
-          <li class="list-group-item">Hver deltager får 1 til 2 kast (Afhængigt af antal deltagere).</li>
+          <li class="list-group-item">Hver deltager får 1 (Afhængigt af antal deltagere).</li>
           <li class="list-group-item">Vedkommende der kaster keyboardet længst har vundet.</li>
-          <li class="list-group-item">Der er til denne konkurrence ingen forhåndstilmelding. Den bliver råbt op lørdag middag og starter kort tid efter.</li>
+          <li class="list-group-item">Der er til denne konkurrence ingen forhåndstilmelding. Den bliver råbt op lørdag kort før start og igen når vi går ud.</li>
           <li class="list-group-item">Når konkurrencen starter udendørs, træder hver deltager, der ønsker at deltage i konkurrencen frem, og forsøger sig.</li>
-          <li class="list-group-item">Vinderen får tildelt en NLW Natmenu som præmie (Et gavekort bestående af 5 toasts og 2 sodavand).</li>
+          <li class="list-group-item">Vinderen får tildelt en NLW Natmenu som præmie (Et gavekort bestående af 2 toasts og 1 sodavand).</li>
         </ul>
       </div>
 
@@ -45,9 +45,9 @@
         <ul class="list-group">
           <li class="list-group-item">I Cocio Crashing kæmpes alle mod alle. Cocioen består af en 70cl almindelig cocio.</li>
           <li class="list-group-item">Ved starts skuddet sættes Cocioen for munden og deltagerne drikker så hurtigt de kan.</li>
-          <li class="list-group-item">Den første der færdiggør sin Cocio bliver udnævnt som vinder. Der er præmier til både første og anden pladsen.</li>
+          <li class="list-group-item">Den første der færdiggør sin Cocio bliver udnævnt som vinder.</li>
           <li class="list-group-item">I tilfælde af opkast eller snyd (hælde Cocioen på jorden eller ned langs halsen) bliver deltageren diskvalifiseret.</li>
-          <li class="list-group-item">Vinderen får tildelt en NLW Natmenu som præmie (Et gavekort bestående af 5 toasts og 2 sodavand) og anden pladsen får 2 toasts og en sodavand.</li>
+          <li class="list-group-item">Vinderen får tildelt en NLW Natmenu Special som præmie (Et gavekort bestående af 2 toasts og 1 cocio).</li>
         </ul>
       </div>
     </div>

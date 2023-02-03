@@ -44,8 +44,9 @@
         <li class="list-group-item">Hørebøffer/headset - brug af højtalere er ikke tilladt.</li>
         <li class="list-group-item">Ekstra batterier, hvis du benytter trådløse enheder.</li>
         <li class="list-group-item">Evt. en blød pude til din stol.</li>
+        <li class="list-group-item">Hvis du medbringer din egen stol, SKAL du medbringe underlag den kan rulle stå.</li>
         <li class="list-group-item">Sovepose e.l. med liggeunderlag til at sove blødt på et gulv.</li>
-        <li class="list-group-item">Lommepenge til mad og drikke i kiosken.</li>
+        <li class="list-group-item">Lommepenge til mad og drikke i kiosken (Vi tager også imod MobilePay).</li>
         <li class="list-group-item">Toiletsager.</li>
         <li class="list-group-item"><b>Godt humør og oplagt på en weekend fuld af gaming!</b></li>
       </ul>
