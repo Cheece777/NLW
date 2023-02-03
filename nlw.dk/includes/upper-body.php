@@ -78,7 +78,7 @@
               <li class="col-xs-4">
                 <ul class="header-right-div">
                   <li class="header-right-div-li">
-                    <p><b><h2>NLW #31  <br> 13. - 15. januar</h2></b></p>
+                    <p><b><h2>NLW #32  <br> 14. - 16. april</h2></b></p>
                   </li>
                   <li class="header-right-div-li">
                     
@@ -87,7 +87,7 @@
 
                     <script>
                     // Set the date we're counting down to
-                    var countDownDate = new Date("JAN 13, 2023 18:00:00").getTime();
+                    var countDownDate = new Date("APR 14, 2023 18:00:00").getTime();
 
                     // Update the count down every 1 second
                     var x = setInterval(function() {
@@ -139,7 +139,7 @@
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-              <li><a href="https://www.place2book.com/da/sw2/sales/f5avnvpcuw" target="_blank"><b>Køb Billet</b></a></li>
+              <li><a href="https://www.place2book.com/da/sw2/sales/93pgd47x9s" target="_blank"><b>Køb Billet</b></a></li>
 
                 <li><a href="<?php echo filter_input(INPUT_SERVER, '__DIR__').'/generelt';?>">Generelt</a></li>
               <li class="dropdown">

@@ -10,7 +10,7 @@ function buyTicketFunc() {
 
         //Set code to run when the link is clicked
 
-            window.open('https://www.place2book.com/da/sw2/sales/e01vew84eb', '_blank', 'location=yes,height=1000,width=1600,scrollbars=yes,status=yes');
+            window.open('https://www.place2book.com/da/sw2/sales/93pgd47x9s', '_blank', 'location=yes,height=1000,width=1600,scrollbars=yes,status=yes');
 
 
     }

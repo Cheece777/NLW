@@ -93,7 +93,7 @@
         <p>Prisen for deltagelse til Nøvling LAN Week ligger på 175 kr til 225 kr.</p>
         <p>Det er også værd at bemærke, at prisen er billigere, hvis man bestiller sin billet i god tid.</p>
         
-        <p><a class="btn btn-primary btn-lg" href="https://www.place2book.com/da/sw2/sales/f5avnvpcuw" target="_blank" role="button">Køb billet</a></p>
+        <p><a class="btn btn-primary btn-lg" href="https://www.place2book.com/da/sw2/sales/93pgd47x9s" target="_blank" role="button">Køb billet</a></p>
         
       </div>
     </div>

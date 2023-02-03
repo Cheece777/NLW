@@ -46,7 +46,7 @@
           <h1 class="panel-title-large">Køb din billet allerede nu!</h1>
         </div>
         <div class="panel-body">
-          <p><a class="btn btn-primary btn-lg btn-block" href="https://www.place2book.com/da/sw2/sales/f5avnvpcuw" target="_blank" role="button">Køb billet</a></p>
+          <p><a class="btn btn-primary btn-lg btn-block" href="https://www.place2book.com/da/sw2/sales/93pgd47x9s" target="_blank" role="button">Køb billet</a></p>
         </div>
       </div>
     </div>
